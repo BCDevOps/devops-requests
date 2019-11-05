@@ -6,7 +6,7 @@ We are using this GitHub repository to manage the requests. Each request will be
 
 ### How to create a request:
 - Go to the [Issues page](https://github.com/BCDevOps/devops-requests/issues)
-- Create an issue based on a _Issue Template_ that match your need. **NOTE**: To enable automation in this process, we ask you to follow the instructions and format according to the templates. For any contact information required, please only provide  business contact information.
+- Create an issue based on a _Issue Template_ that match your need. **NOTE**: To enable automation in this process, we ask you to follow the instructions and format according to the templates. For any contact information required, __please only provide  business contact information.__
 - Once a request has been created, the provisioning process will start. We will post updates on the _GitHub Issue_.
 
 
