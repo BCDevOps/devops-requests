@@ -22,7 +22,7 @@ Are you requesting to create a:
 
 ## Step 3
 Make sure no duplicated request exists, search here:
-https://github.com/bcgov/devops-requests/issues
+https://github.com/BCDevOps/devops-requests/issues
 
 
 ## Step 4

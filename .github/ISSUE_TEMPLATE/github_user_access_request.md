@@ -22,7 +22,7 @@ https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-reques
 
 ## Step 2
 Make sure no duplicated request exists, search here:
-https://github.com/bcgov/devops-requests/issues
+https://github.com/BCDevOps/devops-requests/issues
 
 
 ## Step 4
