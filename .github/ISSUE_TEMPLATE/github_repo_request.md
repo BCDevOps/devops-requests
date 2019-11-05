@@ -32,7 +32,7 @@ Fill out the following fields
 * Project Description: 
 * Approver: @
 * Repo Owner GitHub ID: @
-* For Private Repo Only:
+* For Private Repo Only
   * Rationale for being closed source: 
   * Approval from Enterprise DevOps branch leadership: @
 

@@ -37,8 +37,8 @@ Fill out the following fields
 * Project Name: 
 * GitHub Org: bcgov or private
 * Full Name: 
-* GitHub ID: 
-* GitHub Account 2FA Confirmed:
+* GitHub ID: @
+* GitHub Account 2FA Confirmed: yes or no
 * Email address: 
 * Organization: 
 * Project Role: 
