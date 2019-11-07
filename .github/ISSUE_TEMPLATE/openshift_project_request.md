@@ -1,8 +1,12 @@
 ---
 name: Request for OpenShift Project Set
 about: To create an OpenShift Project Set.
+title: ''
+labels: openshift-project-set, pending
+assignees: caggles, kelpisland, ShellyXueHan
 
 ---
+
 ## Step 0
 **Are you the product owner or technical lead?**
 If not, you will need to ask one of those two people to make this request.

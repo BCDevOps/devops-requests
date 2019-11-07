@@ -1,8 +1,12 @@
 ---
 name: Request for adding or removing OpenShift access
 about: To grant/remove OpenShift access for a user.
+title: ''
+labels: openshift-access
+assignees: caggles, ShellyXueHan
 
 ---
+
 ## Step 0
 **Are you the product owner or project admin?**
 If not, you will need to ask one of those two people to make this request for you. We can't process requests from individuals to have themselves granted access.

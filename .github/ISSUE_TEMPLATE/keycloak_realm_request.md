@@ -1,8 +1,12 @@
 ---
 name: Request for KeyCloak Realm
 about: To create a set of KeyCloak Realms
+title: ''
+labels: keycloak-realm
+assignees: caggles, ShellyXueHan
 
 ---
+
 ## Step 0
 **Are you the product owner or project admin/team lead?**
 If not, you will need to ask one of those two people to make this request for you. We can't process realm requests except from individuals in these roles.

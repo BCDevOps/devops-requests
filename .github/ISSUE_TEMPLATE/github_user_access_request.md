@@ -1,8 +1,12 @@
 ---
 name: Request for BCGOV GitHub Organization Membership
 about: To grant or remove access for a team member to BCGOV GitHub repositories.
+title: ''
+labels: github-membership
+assignees: caggles, ShellyXueHan
 
 ---
+
 ## Step 0
 
 **Do you already have a BCGOV GitHub Repository for your project?**

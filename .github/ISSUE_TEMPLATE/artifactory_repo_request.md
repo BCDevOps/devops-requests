@@ -1,8 +1,12 @@
 ---
 name: Request for Artifactory Repo
 about: To create an Artifactory Repo.
+title: ''
+labels: artifactory-repo
+assignees: caggles, ShellyXueHan
 
 ---
+
 ## Step 1
 Visit DevHub for detailed instruction on creating a request:
 https://developer.gov.bc.ca/Using-Artifactory

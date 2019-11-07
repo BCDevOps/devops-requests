@@ -1,8 +1,12 @@
 ---
 name: Request for a new BCGov GitHub repository
 about: To create a new source code repository  in GitHub for a BC Government project.
+title: ''
+labels: github-repo
+assignees: caggles, ShellyXueHan
 
 ---
+
 ## Step 0
 
 **Are you a product owner or technical lead for a project?**
