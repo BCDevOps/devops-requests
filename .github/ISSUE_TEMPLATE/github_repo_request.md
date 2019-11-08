@@ -1,6 +1,6 @@
 ---
-name: Request for a new private BCGov GitHub repository
-about: To create a new private source code repository in GitHub for a BC Government project.
+name: Request for a private BCGov GitHub repository
+about: To create a private source code repository in GitHub for a BC Government project.
 title: ''
 labels: github-repo
 assignees: caggles, ShellyXueHan
