@@ -1,6 +1,6 @@
 ---
-name: Request for a new BCGov GitHub repository
-about: To create a new source code repository  in GitHub for a BC Government project.
+name: Request for a new private BCGov GitHub repository
+about: To create a new private source code repository in GitHub for a BC Government project.
 title: ''
 labels: github-repo
 assignees: caggles, ShellyXueHan
@@ -18,10 +18,9 @@ Visit DevHub for detailed instruction on creating a request:
 https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation
 
 ## Step 2
-Are you requesting to create a:
-- [x] public repo in `bcgov` GitHub organization
-- [ ] transition existing private repo in `bcgov-c` GitHub organization to public repo in `bcgov` GitHub organization
-- [ ] temporary private repo in `bcgov-c` GitHub organization
+Are you requesting to:
+- [x] transition existing private repo in `bcgov-c` GitHub organization to public repo in `bcgov` GitHub organization
+- [ ] create a temporary private repo in `bcgov-c` GitHub organization
 
 
 ## Step 3
@@ -36,9 +35,8 @@ Fill out the following fields
 * Project Description: 
 * Approver: @
 * Repo Owner GitHub ID: @
-* For Private Repo Only
-  * Rationale for being closed source: 
-  * Approval from Enterprise DevOps branch leadership: @
+* Rationale for being closed source: 
+* Approval from Enterprise DevOps branch leadership: @
 
 
 ## Step 5:
