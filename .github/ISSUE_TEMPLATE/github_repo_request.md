@@ -1,5 +1,5 @@
 ---
-name: Request for a private BCGov GitHub repository
+name: Request for a BCGov GitHub repository
 about: To create a private source code repository in GitHub for a BC Government project.
 title: ''
 labels: github-repo
@@ -12,6 +12,8 @@ assignees: caggles, ShellyXueHan
 **Are you a product owner or technical lead for a project?**
 If not, you will need to find one of those two people to make this request.
 
+**Are you looking to creating a Open Source BCGov GitHub Repo?**
+If so, ask the contact person that introduced you to us to make a request for your access to BCGOV GitHub Organization. Once you join the organization, you could create repository there. For private repo, please proceed with this template.
 
 ## Step 1
 Visit DevHub for detailed instruction on creating a request:
