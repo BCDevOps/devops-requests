@@ -10,7 +10,7 @@ assignees: caggles, ShellyXueHan
 ## Step 0
 
 **Do you already have a BCGOV GitHub Repository for your project?**
-If not, make a request for the repo beofre making this request.
+If not, make a request for the repo before making this request.
 
 **Do you actually need the team member to be a member of the organization?**
 - Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team member to contribute as a Collaborator.  
