@@ -14,8 +14,12 @@ If not, you will need to ask one of those two people to make this request for yo
 **Do you have an IDIR account?**
 We use IDIR authentication for realm admin users, so you *must* have one in order to become a realm admin.  
 
+**Are you requesting for Identity Provider Update?**
+If so, you need to be the realm admin and continue to Step 4.
+
+
 ## Step 1
-Login to each the following links using your IDIR credentials. You will and see a the "_Forbidden_" message, but this is expected behaviour and will actually create your initial account on KeyCloak.
+Login to each of the following links using your IDIR credentials. You will and see a the "_Forbidden_" message, but this is expected behaviour and will actually create your initial account on KeyCloak.
 - https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso.pathfinder.gov.bc.ca/auth/admin/idir/console
@@ -29,3 +33,14 @@ Fill out the following fields:
 
 ## Step 3
 Once you submit your issued and we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.pathfinder.gov.bc.ca/
+
+
+
+## Step 4
+Fill out the following fields for IDP update:
+
+* Project Name: 
+* Realm ID: 
+* Admin of Realm (IDIR username + email): 
+* Identity Provider: IDIR or BCeID or GitHub
+
