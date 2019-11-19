@@ -18,11 +18,16 @@ https://github.com/BCDevOps/devops-requests/issues
 
 
 ## Step 3
+Ensure that you have already logged into Artifactory at least once via Keycloak to create your personal account name:
+https://artifacts.developer.gov.bc.ca
+
+## Step 4
 Fill out the following fields
 
+* Requester: (must be artifactory name ending in either `@github` or `@idir`)
 * Team Name:
 * Repo Type:
-* Repo Location:
+* Repo Location: (local or virtual)
 * Repo Description:
-* Primary OpenShift Project:
+* Primary OpenShift Project: (must be a tools namespace)
 * (if virtual) List of Related Repos:
