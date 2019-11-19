@@ -30,6 +30,7 @@ Are you requesting to:
 ## Step 4
 Fill out the following fields
 
+* Ministry: 
 * Short Team/Organization Name: 
 * Team and Product Description: 
 * Space Admin User
