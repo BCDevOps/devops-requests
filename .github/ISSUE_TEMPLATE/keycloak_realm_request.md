@@ -19,10 +19,10 @@ If so, you need to be the realm admin and continue to Step 4.
 
 
 ## Step 1
-Login to each of the following links using your IDIR credentials. You will and see a the "_Forbidden_" message, but this is expected behaviour and will actually create your initial account on KeyCloak.
+Login to each of the following links using your **IDIR credentials**. You will and see a the "_Forbidden_" message, but this is expected behaviour and will actually create your initial account on KeyCloak.
 - https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
-- https://sso.pathfinder.gov.bc.ca/auth/admin/idir/console
+- https://sso.pathfinder.gov.bc.ca/auth/admin/devhub/console
 
 
 ## Step 2
