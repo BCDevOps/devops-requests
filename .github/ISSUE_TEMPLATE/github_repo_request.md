@@ -38,6 +38,7 @@ Fill out the following fields
 * Approver: @
 * Repo Owner GitHub ID: @
 * Rationale for being closed source: 
+* Date to move to public:
 * Approval from Enterprise DevOps branch leadership: @
 
 
