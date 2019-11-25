@@ -33,14 +33,25 @@ Fill out the following fields
 * Ministry: 
 * Short Team/Organization Name: 
 * Team and Product Description: 
-* Space Admin User
-  - GitHub or IDIR account:
-  - Business Email Address: 
-  - RocketChat Account Username: 
 * Space Visibility: Public / Protected (only invited users could see)
 
 
 ## Step 5
+Submit this ticket and email us the contact information.
+
+For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
+
+* link to the GitHub ticket you just created: 
+* Space Admin User
+  - GitHub or IDIR account:
+  - Business Email Address: 
+  - RocketChat Account Username: 
+
+Please note that we will only start processing your request when the email has been received.
+
+
+
+## Step 6
 Once we create the space for you, you will have full control over the space, including:
 - space settings
 - user access
