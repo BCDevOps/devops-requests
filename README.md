@@ -19,4 +19,4 @@ We provide the following request types:
 4. [BCGov GitHub Repository](https://github.com/BCDevOps/devops-requests/issues/new?template=github_repo_request.md)
 5. [BCGov GitHub Organization Membership](https://github.com/BCDevOps/devops-requests/issues/new?template=github_user_access_request.md)
 
-If you have a different type of request, contact the Platform Services Team.
+If you have a different type of request, contact the Platform Services Team. (How does one do this? Instructions here, please. 🙂)
