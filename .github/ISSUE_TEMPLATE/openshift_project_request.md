@@ -37,11 +37,20 @@ Fill out the following fields
 * Product Full Name: 
 * Product Description: 
 * Desired Environments: tools, dev, test, prod
+* GitHub Repository (if exists): 
+
+## Step 5
+Submit this ticket and email us the contact information.
+
+For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
+
+* link to the GitHub ticket you just created
 * Product Technical Steward
-  - GitHub ID: @
+  - GitHub ID: 
   - Business Email Address: 
   - RocketChat Account Username: 
 * Product Owner
   - Business Email Address: 
   - RocketChat Account Username: 
-* GitHub Repository:
+
+Please note that we will only start processing your request when the email has been received.
