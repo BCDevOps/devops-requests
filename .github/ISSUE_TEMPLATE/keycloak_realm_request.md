@@ -29,8 +29,8 @@ Login to each of the following links using your **IDIR credentials**. You will a
 Fill out the following fields:
 
 * Project Name: 
-* Admin of Realm (IDIR username + email): 
-
+* Admin of Realm (user's email): 
+* For security purpose, please send your IDIR account to this email address - pathfinder@gov.bc.ca
 
 ## Step 3
 Once you submit your issued and we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.pathfinder.gov.bc.ca/
@@ -42,6 +42,7 @@ Only fill out the following fields if you have an realm and need to add an IDP:
 
 * Project Name: 
 * Realm ID: 
-* Admin of Realm (IDIR username + email): 
+* Admin of Realm (email): 
+* For security purpose, please send your IDIR account to this email address - pathfinder@gov.bc.ca
 * Identity Provider: IDIR or BCeID or GitHub
 
