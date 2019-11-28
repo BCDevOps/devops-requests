@@ -50,7 +50,21 @@ For security purpose, please provide the following contact information to the em
   - Business Email Address: 
   - RocketChat Account Username: 
 * Product Owner
-  - Business Email Address: 
+  - Business Email Address: (BCGov employee)
   - RocketChat Account Username: 
+  - Organization Code:
+  - Organization Unit Code: 
+  - (refer to https://dir.gov.bc.ca/)
+
+* BC Government Security Contact Information
+  - Ministry Chief Information Officer:
+  - (refer to https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-technology/ocio/mcio_contact_list.pdf)
+
+  - Ministry Information Security Officer:
+  - (refer to https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/information-security-branch/miso-contacts)
+
+  - Ministry Privacy Officer:
+  - (refer to https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/resources/privacy-officers)
+
 
 Please note that we will only start processing your request when the email has been received.
