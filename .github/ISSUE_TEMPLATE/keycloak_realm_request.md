@@ -19,10 +19,12 @@ If so, you need to be the realm admin. Then proceed to Step 2.
 
 
 ## Step 1
-Login to each of the following links using your **IDIR credentials**. You will then see a "_Forbidden_" message, but this is expected behaviour and will actually create your initial account on KeyCloak.
+Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**. There will show a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
 - https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso.pathfinder.gov.bc.ca/auth/admin/devhub/console
+
+_Please note that if the Realm Admin User has not completed this stpe, he/she will not be granted the role for the realms._
 
 
 ## Step 2
