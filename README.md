@@ -16,7 +16,6 @@ We provide the following request types:
 1. [OpenShift Project Set](https://github.com/BCDevOps/devops-requests/issues/new?template=openshift_project_request.md)
 2. [OpenShift User Access](https://github.com/BCDevOps/devops-requests/issues/new?template=openshift_user_access_request.md)
 3. [KeyCloak Realm](https://github.com/BCDevOps/devops-requests/issues/new?template=keycloak_realm_request.md)
-4. [BCGov GitHub Repository](https://github.com/BCDevOps/devops-requests/issues/new?template=github_repo_request.md)
-5. [BCGov GitHub Organization Membership](https://github.com/BCDevOps/devops-requests/issues/new?template=github_user_access_request.md)
+4. [BCGov GitHub Organization Membership](https://github.com/BCDevOps/devops-requests/issues/new?template=github_user_access_request.md) (Org member can then create repository in bcgov)
 
 If you have a different type of request, contact the Platform Services Team.
