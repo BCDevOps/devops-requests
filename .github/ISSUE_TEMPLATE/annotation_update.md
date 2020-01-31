@@ -11,8 +11,7 @@ assignees: caggles, ShellyXueHan
 **Are you the product owner or technical lead?**
 If not, you will need to ask one of those two people to make this request.
 
-If you're looking to update the product owner or technical lead information, the person *currently* listed as 
-product owner or technical lead needs to make this request, rather than the new person.
+If you're looking to update the product owner or technical lead information, the person *currently* listed as product owner or technical lead needs to make this request, rather than the new person.
 
 
 ## Step 1
