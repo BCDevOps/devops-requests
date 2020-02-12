@@ -31,3 +31,5 @@ Fill out the following fields
 * Repo Description:
 * Primary OpenShift Project: (must be a tools namespace)
 * (if virtual) List of Related Repos:
+
+A complete list of possible package types can be found here: https://www.jfrog.com/confluence/display/RTF/Repository+Configuration+JSON#RepositoryConfigurationJSON-application/vnd.org.jfrog.artifactory.repositories.LocalRepositoryConfiguration+json
