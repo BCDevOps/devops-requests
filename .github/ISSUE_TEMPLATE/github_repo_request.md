@@ -2,8 +2,8 @@
 name: Request for private BCGOV GitHub Repository
 about: To create or remove a private BCGOV GitHub repository.
 title: ''
-labels: github-membership
-assignees: caggles, ShellyXueHan
+labels: github-membership, pending
+assignees: caggles, ShellyXueHan, kelpisland
 
 ---
 
@@ -15,6 +15,8 @@ Please note that **new users may not request access for themselves**. If you are
 **Are you sure you need to have your project code close-sourced?**
 We highly recommend open source, secrets and any sensitive information should never be part of your code based. If you still think your code needs to be private, please provide the details in the request.
 
+**What date will you move your project to open-source?**
+All projects in the private organization are required to be there temporarily. This org is a staging area that permits teams to work on removing private information so that it can be made open-source at a later time. Please include a firm date by which you will move your repository to the open organization.
 
 ## Step 1
 Make sure no duplicated request exists, search here:
