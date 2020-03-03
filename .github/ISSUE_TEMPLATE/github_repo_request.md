@@ -35,6 +35,8 @@ Fill out the following fields. For security purpose, please provide the followin
 * Project Name: 
 * GitHub Org: bcgov or private
 * Details on choosing private repo: 
+* Preferred name for repo: 
+* Expected date to move to public: MM/YYYY
 * GitHub ID for repo owner: @
 * GitHub Account 2FA Confirmed: yes or no
 * Email address: 
