@@ -1,6 +1,6 @@
 ---
 name: Request for Artifactory Repo
-about: Find more info about Artifactory at https://developer.gov.bc.ca/Using-Artifactory and in the #devops-artifactory channel on RC.
+about: Find more info about Artifactory at https://developer.gov.bc.ca/Using-Artifactory and in the devops-artifactory channel on RC.
 title: ''
 labels: artifactory-repo
 assignees: caggles, ShellyXueHan
