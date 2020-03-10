@@ -26,8 +26,10 @@ What quotas need to be changed? (Select all that apply)
 - [ ] Storage: Netapp File (storage-netapp-file-standard-quota)
 - [ ] Storage: NFS Backup (storage-nfs-backup-quota)
 
-Note: if you are looking for any other quotas to be changed (namely, gluster), you may explain here what type of change you require.
-Please be aware that there is a VERY low chance that any such requests will be approved.
+## Step 3
+Add details about your quota request here:
+
+*ex: Please increase number of PVCs that can be provisioned to 30.*
 
 ## Step 4
 Please explain here the reasons for requesting your quota change.
