@@ -3,7 +3,7 @@ name: Request for OpenShift Project Set
 about: To create an OpenShift Project Set.
 title: ''
 labels: openshift-project-set, pending
-assignees: caggles, kelpisland, ShellyXueHan
+assignees: caggles, mitovskaol, ShellyXueHan
 
 ---
 
