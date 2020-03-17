@@ -15,7 +15,10 @@ We have install SonarCloud on `bcgov` GitHub Organization for application teams 
 The request requires a repository administrator to make the request. The requestor will be assigned as the SonarCloud repository admin. Requests from a non-admin user will be closed.
 
 ## Step 1
-Login to SonarCloud console with your GitHub account https://sonarcloud.io/organizations/bcgov-sonarcloud/projects For debugging, please check if you are a member of bcgov GitHub Organization.
+Login to SonarCloud console with your GitHub account https://sonarcloud.io/organizations/bcgov-sonarcloud/projects. Double check at https://sonarcloud.io/account/organizations to make sure `bcgov` GitHub organization is the current org. For debugging, please check if you are a member of bcgov GitHub Organization.
+
+***Note:*** Find out more details and instructions here: https://github.com/BCDevOps/sonarqube/blob/96aba33afef20c1c9003a2c9670206c28f4482ca/README.md#sonarcloud
+
 
 ## Step 2
 Fill out the following fields
@@ -25,4 +28,5 @@ Fill out the following fields
 - 
 - 
 
-***Note:*** Find out more instruction here: https://github.com/BCDevOps/sonarqube/blob/96aba33afef20c1c9003a2c9670206c28f4482ca/README.md#sonarcloud
+## Step 3
+To invite other team members onto sonarcloud, make sure the users have completed Step 1. The SonarCloud repository admin user could further assign roles.
