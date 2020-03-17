@@ -12,7 +12,7 @@ assignees: caggles, ShellyXueHan
 We have install SonarCloud on `bcgov` GitHub Organization for application teams to use. Only repositories inside the bcgov GitHub Organization are supported through this request.
 
 **Are you the admin user of the GitHub repositories?**
-The setup process require a repo admin level access. You will be assigned as the admin of your SonarCloud repos.
+The request requires a repository administrator to make the request. The requestor will be assigned as the SonarCloud repository admin. Requests from a non-admin user will be closed.
 
 ## Step 1
 Login to SonarCloud console with your GitHub account https://sonarcloud.io/organizations/bcgov-sonarcloud/projects For debugging, please check if you are a member of bcgov GitHub Organization.
