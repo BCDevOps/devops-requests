@@ -9,7 +9,7 @@ assignees: caggles, ShellyXueHan
 
 ## Step 0
 **Is your repository on `bcgov` GitHub Organization?**
-We have install SonarCloud on `bcgov` GitHub Organization for application teams to use. If your repo is not on bcgov, please migrate first.
+We have install SonarCloud on `bcgov` GitHub Organization for application teams to use. Only repositories inside the bcgov GitHub Organization are supported through this request.
 
 **Are you the admin user of the GitHub repositories?**
 The setup process require a repo admin level access. You will be assigned as the admin of your SonarCloud repos.
