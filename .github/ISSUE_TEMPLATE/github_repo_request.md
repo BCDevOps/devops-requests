@@ -3,7 +3,7 @@ name: Request for private BCGOV GitHub Repository
 about: To create or remove a private BCGOV GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: caggles, ShellyXueHan, kelpisland
+assignees: caggles, ShellyXueHan, mitovskaol
 
 ---
 
