@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Human help needed
-    url: https://developer.gov.bc.ca
+    url: https://developer.gov.bc.ca/Getting-human-support-for-issues-not-covered-by-devops-requests
     about: Please come talk to BCGov Developer Experience if you have questions/issues.
