@@ -11,6 +11,9 @@ assignees: caggles, mitovskaol, ShellyXueHan
 **Are you the product owner or technical lead?**
 If not, you will need to ask one of those two people to make this request.
 
+If you are one of these two people, please ensure that you also request Openshift access if you don't have it already. This request does NOT grant you access to the platform itself - you will find a separate request for that on the issues page of this repo!
+However, you may submit both requests at the same time - there's no need to wait until that request has been completed to submit this one.
+
 **Have you had an alignment meeting?**
 If not, please set up a meeting with the Enterprise DevOps branch leadership prior to submitting a project request.
 
