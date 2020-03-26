@@ -9,7 +9,12 @@ assignees: caggles, ShellyXueHan
 
 ## Step 0
 **Are you the product owner or project admin?**
-If not, you will need to ask one of those two people to make this request for you. We can't process requests from individuals to have themselves granted access.
+
+Preferably, someone who is already a member of the BCDevOps Github org should request access for you. 
+Consider asking someone to submit this ticket in your name in order to ensure that it is processed quickly.
+
+If you do not have access to a team lead or other org member to ask for membership on your behalf, a member of the Platform Experience team will contact you about your request once you have submitted it.
+We will need to discuss your needs in a quick meeting before this request can be processed.
 
 **Do you have a GitHub account?**
 If not, create one, setup your name and associate it with your business email address.
