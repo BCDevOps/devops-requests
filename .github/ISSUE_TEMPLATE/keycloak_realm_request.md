@@ -24,13 +24,14 @@ Ask the Realm Admin User to login to each of the following links using the **IDI
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso.pathfinder.gov.bc.ca/auth/admin/devhub/console
 
-_Please note that if the Realm Admin User has not completed this stpe, he/she will not be granted the role for the realms._
+_Please note that if the Realm Admin User has not completed this step, he/she will not be granted the role for the realms._
 
 
 ## Step 2
 Field the following information.
 
 * Project Name: 
+* OpenShift Project Set/s if exists: 
 * For existing KeyCloak realm update only:
   - Realm ID: 
   - Identity Provider to add: IDIR or BCeID or GitHub
