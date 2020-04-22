@@ -1,8 +1,8 @@
 ---
 name: Request for KeyCloak Realm
-about: To create a set of KeyCloak Realms
+about: To create a set of KeyCloak Realms.
 title: ''
-labels: keycloak-realm
+labels: keycloak-realm, pending
 assignees: caggles, ShellyXueHan
 
 ---
@@ -11,15 +11,22 @@ assignees: caggles, ShellyXueHan
 **Are you the product owner or project admin/team lead?**
 If not, you will need to ask one of those two people to make this request for you. We can't process realm requests except from individuals in these roles.
 
-**Do you have an IDIR account?**
-We use IDIR authentication for realm admin users, so you *must* have one in order to become a realm admin.  
+**Does the Admin User have an IDIR account?**
+We use IDIR authentication for Realm Admin Users, so make sure there's a *valid IDIR* for the assigned realm admin.  
 
 **Are you requesting for Identity Provider Update?**
-If so, you need to be the realm admin. Then proceed to Step 2.
+If so, you need to be the realm admin. Then proceed to Step 3.
 
 
 ## Step 1
-Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**. There will show a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
+Have you had an onboarding meeting yet? If not, make sure you are available on [RocketChat](https://chat.pathfinder.gov.bc.ca/). We will contact you soon to book a meeting.
+
+
+## Step 2
+Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**.
+
+There will show a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
+
 - https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso.pathfinder.gov.bc.ca/auth/admin/devhub/console
@@ -27,17 +34,24 @@ Ask the Realm Admin User to login to each of the following links using the **IDI
 _Please note that if the Realm Admin User has not completed this step, he/she will not be granted the role for the realms._
 
 
-## Step 2
+## Step 3
 Field the following information.
 
 * Project Name: 
-* OpenShift Project Set/s if exists: 
-* For existing KeyCloak realm update only:
+
+* OpenShift Project Set/s Info
+  - Project set name:
+  - Namespace ID:
+
+* For existing KeyCloak realm update only
   - Realm ID: 
-  - Identity Provider to add: IDIR or BCeID or GitHub
+  - Identity Provider to Add
+    - [ ] BCeID
+    - [ ] GitHub
+    - [ ] BCSC
 
 
-## Step 3
+## Step 4
 Submit this ticket and email us the contact information.
 
 For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
@@ -49,5 +63,5 @@ For security purpose, please provide the following contact information to the em
 Please note that we will only start processing your request when the email has been received.
 
 
-## Step 4
+## Step 5
 After we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.pathfinder.gov.bc.ca/
