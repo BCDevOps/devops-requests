@@ -19,7 +19,7 @@ If so, you need to be the realm admin. Then proceed to Step 3.
 
 
 ## Step 1
-Have you had an onboarding meeting yet? If not, make sure you are available on [RocketChat](https://chat.pathfinder.gov.bc.ca/). We will contact you soon to book a meeting.
+Are you new to RedHat Single Sign-On (KeyCloak)? If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
 
 
 ## Step 2
@@ -56,6 +56,7 @@ Submit this ticket and email us the contact information.
 
 For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
 
+* Email to reach out for On-Boarding meeting invitation:
 * link to the GitHub ticket you just created: 
 * Admin user's IDIR account: 
 * Admin user's Business Email Address: 
