@@ -25,7 +25,7 @@ Are you new to RedHat Single Sign-On (KeyCloak)? If so, please indicate that in 
 ## Step 2
 Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**.
 
-There will show a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
+When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
 
 - https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
 - https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
