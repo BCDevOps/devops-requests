@@ -22,6 +22,12 @@ Visit DevHub for detailed instruction on creating a request:
 https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-Request-a-New-OpenShift-Project
 
 
+Read through the Platform Onboarding Guide before continue with this request. This helps to get clear expectations of the platform and how to collaborate with the Platform community alone the journey:
+https://developer.gov.bc.ca/Welcome-to-our-Platform-Community!
+
+- [ ] By checking it I confirm that I have read and understood the roles and responsibilities as described in the Onboarding Guide.
+
+
 ## Step 2
 Make sure no duplicated request exists, search here:
 https://github.com/BCDevOps/devops-requests/issues
