@@ -9,20 +9,15 @@ assignees: caggles, ShellyXueHan
 
 ## Step 0
 
-**Are you a member of the BCGOV GitHub Organization already?**
+**Are you the Technical Lead?**
+If not, you need to ask your team's Technical Lead role to make this request. This role should be a member of the BCGOV Github org as part of the team onboarding process.
 
-Preferably, someone who is already a member of the BCGOV Github org should request access for you. 
-Consider asking someone to submit this ticket in your name in order to ensure that it is processed quickly.
-
-If you do not have access to a team lead or other org member to ask for membership on your behalf, a member of the Platform Experience team will contact you about your request once you have submitted it.
+If you do not have access to a Technical Lead to ask for membership on your behalf, or the Technical Lead has not yet obtained the membership, a member of the Platform Experience team will contact you about your request once you have submitted it.
 We will need to discuss your needs in a quick meeting before this request can be processed!
 
 **Do you actually need the team member to be a member of the organization?**
 - Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team member to contribute as a Collaborator.  
   Instructions [here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
-
-**Are you the admin of your project's BCGOV GitHub Repository?**
-If not, you need to ask your project repo's admin to make this request.
 
 
 ## Step 1
