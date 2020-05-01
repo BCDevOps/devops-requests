@@ -1,6 +1,6 @@
 ---
-name: Request for Documize Space
-about: To create an Documize Space for team documents.
+name: Request for Protected Documize Space
+about: To create a private and protected Documize Space for team documents.
 title: ''
 labels: documize-space
 assignees: caggles, ShellyXueHan
