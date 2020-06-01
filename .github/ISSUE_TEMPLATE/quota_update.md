@@ -3,7 +3,7 @@ name: Request to Change Project Set Quotas
 about: Request changes to cpu/storage/etc
 title: ''
 labels: quota-update, pending
-assignees: caggles, ShellyXueHan
+assignees: caggles, ShellyXueHan, sbarre-esit
 
 ---
 
