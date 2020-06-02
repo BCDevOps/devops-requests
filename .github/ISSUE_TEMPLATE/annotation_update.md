@@ -33,6 +33,9 @@ For security purpose, please provide the following contact information to the em
 
 Link to the GitHub ticket you just created
 
+*Project Set Info*
+  - Namespaces:
+
 *Product Technical Steward*
   - GitHub ID: 
   - Business Email Address: 
