@@ -53,12 +53,12 @@ Please provide the namespace(s) to which these quota changes need to be applied:
 
 **Note: ensure you are providing the namespace name, not the project display name. It should be a string of 6 random alphanumeric characters, followed by -tools, -dev, -test or -prod.**
 
-## Step 3
+## Step 4
 Add details about your quota request here.
 
 *ex: Please increase number of PVCs that can be provisioned to 30.*
 
-## Step 4
+## Step 5
 Please explain here the reasons for requesting your quota change.
 
 Remember that OCP is a shared resource. Please be community-minded in making these requests and include thorough details about why your project's current resource usage cannot be reduced to adhere to the existing quota requirements.
