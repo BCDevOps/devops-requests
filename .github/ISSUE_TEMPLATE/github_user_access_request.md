@@ -13,7 +13,8 @@ assignees: caggles, ShellyXueHan
 If not, you need to ask your team's Technical Lead role to make this request. This role should be a member of the BCGOV Github org as part of the team onboarding process.
 
 If you do not have access to a Technical Lead to ask for membership on your behalf, or the Technical Lead has not yet obtained the membership, a member of the Platform Experience team will contact you about your request once you have submitted it.
-We will need to discuss your needs in a quick meeting before this request can be processed!
+We will need to discuss your needs in a quick meeting before this request can be processed! **Please indicate in this ticket if you need to schedule this meeting.** 
+If you've already had a meeting as part of a request for an Openshift Project, please indicate that in the ticket as well.
 
 **Do you actually need the team member to be a member of the organization?**
 - Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team member to contribute as a Collaborator.  
