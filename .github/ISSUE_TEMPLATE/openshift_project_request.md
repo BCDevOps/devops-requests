@@ -1,6 +1,6 @@
 ---
 name: Request for OpenShift Project Set
-about: To create an OpenShift Project Set.
+about: To create an OpenShift Project Set or remove unused ones.
 title: ''
 labels: openshift-project-set, pending
 assignees: caggles, mitovskaol, ShellyXueHan
