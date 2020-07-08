@@ -40,7 +40,7 @@ Field the following information.
 * Project Name: 
 
 * OpenShift Project Set/s Info
-  - Project set name:
+  - Project set name:  (please provide the namespace name in the form of a 6 character alphanumeric code followed by the environment, like so: a1b2c3-prod.)
   - Namespace ID:
 
 * For existing KeyCloak realm update only

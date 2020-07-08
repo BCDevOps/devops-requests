@@ -35,6 +35,7 @@ Link to the GitHub ticket you just created
 
 *Project Set Info*
   - Namespaces:
+  (please provide the namespace name in the form of a 6 character alphanumeric code followed by the environment, like so: a1b2c3-prod.)
 
 *Product Technical Steward*
   - GitHub ID: 
