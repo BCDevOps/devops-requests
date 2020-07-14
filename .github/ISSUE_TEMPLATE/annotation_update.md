@@ -24,6 +24,8 @@ What annotations/labels need to be changed? (Select all that apply)
 - [ ] Product Owner
 - [ ] Technical Steward
 - [ ] Security Contacts
+- [ ] Other Critical Contacts (contact info for other stakeholders such as members of IMB, Architecture, Privacy, etc groups that are interested in receiving comms related to this project sets.
+- [ ] Product Group (an optional label that can be used to group together OpenShift Project Sets that share a business function (e.g. Platform Services project sets are labeled as part of "Platform Services" product group.  The value for this label should be determined by the organization/ministry/branch/team that owns the Project Set)
 
 ## Step 4
 Submit this ticket and email us the contact information. 
@@ -48,6 +50,9 @@ Link to the GitHub ticket you just created
   - Organization Unit Code: 
   - (refer to https://dir.gov.bc.ca/)
 
+*Other Critical Contacts*
+  - Business Email Address:
+
 *BC Government Security Contact Information*
   - Ministry Chief Information Officer:
   - (refer to https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-technology/ocio/mcio_contact_list.pdf)
@@ -58,5 +63,7 @@ Link to the GitHub ticket you just created
   - Ministry Privacy Officer:
   - (refer to https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/resources/privacy-officers)
 
+
+*Product Group Name*
 
 Please note that we will only start processing your request when the email has been received.

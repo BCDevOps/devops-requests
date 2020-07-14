@@ -45,6 +45,7 @@ Fill out the following fields
 * Product Short Name: 
 * Product Full Name: 
 * Product Description: 
+* Product Group Name (if exists, used to group together OpenShift Project Sets that are related to each other): 
 * Desired Environments: tools, dev, test, prod
 * GitHub Repository (if exists): 
 
@@ -64,7 +65,9 @@ For security purpose, please provide the following contact information to the em
   - Organization Code:
   - Organization Unit Code: 
   - (refer to https://dir.gov.bc.ca/)
-
+* Other Critical Contacts
+  - (this could be a member of IMB, Architecture, Privacy, etc groups)
+  - Email Address:
 * BC Government Security Contact Information
   - Ministry Chief Information Officer:
   - (refer to https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-technology/ocio/mcio_contact_list.pdf)
