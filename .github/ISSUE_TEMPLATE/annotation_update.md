@@ -25,7 +25,7 @@ What annotations/labels need to be changed? (Select all that apply)
 - [ ] Technical Steward
 - [ ] Security Contacts
 - [ ] Other Critical Contacts
-- [ ] Product Group (a label used to group together OpenShift Project Sets that serve as one product in general. This should be self-identified within your organization/ministry/branch/team)
+- [ ] Product Group (an optional label that can be used to group together OpenShift Project Sets that share a business function (e.g. Platform Services project sets are labeled as part of "Platform Services" product group.  The value for this label should be determined by the organization/ministry/branch/team that owns the Project Set)
 
 ## Step 4
 Submit this ticket and email us the contact information. 
