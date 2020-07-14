@@ -45,7 +45,7 @@ Fill out the following fields
 * Product Short Name: 
 * Product Full Name: 
 * Product Description: 
-* Product Group Name (if exists): 
+* Product Group Name (if exists, used to group together OpenShift Project Sets that serve as one product in general): 
 * Desired Environments: tools, dev, test, prod
 * GitHub Repository (if exists): 
 
