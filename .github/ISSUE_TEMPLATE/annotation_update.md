@@ -24,7 +24,7 @@ What annotations/labels need to be changed? (Select all that apply)
 - [ ] Product Owner
 - [ ] Technical Steward
 - [ ] Security Contacts
-- [ ] Other Critical Contacts
+- [ ] Other Critical Contacts (contact info for other stakeholders such as members of IMB, Architecture, Privacy, etc groups that are interested in receiving comms related to this project sets.
 - [ ] Product Group (an optional label that can be used to group together OpenShift Project Sets that share a business function (e.g. Platform Services project sets are labeled as part of "Platform Services" product group.  The value for this label should be determined by the organization/ministry/branch/team that owns the Project Set)
 
 ## Step 4
