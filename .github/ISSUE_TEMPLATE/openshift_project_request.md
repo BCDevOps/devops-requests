@@ -66,7 +66,7 @@ For security purpose, please provide the following contact information to the em
   - Organization Unit Code: 
   - (refer to https://dir.gov.bc.ca/)
 * Other Critical Contacts
-  - (this could be a MISO, Architecture team member, Privacy Specialist, etc)
+  - (this could be a member of IMB, Architecture, Privacy, etc groups)
   - Email Address:
 * BC Government Security Contact Information
   - Ministry Chief Information Officer:
