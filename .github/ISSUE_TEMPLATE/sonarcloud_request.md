@@ -9,7 +9,7 @@ assignees: caggles, ShellyXueHan
 
 ## Step 0
 **Is your repository on `bcgov` GitHub Organization?**
-We have install SonarCloud on `bcgov` GitHub Organization for application teams to use. Only repositories inside the bcgov GitHub Organization are supported through this request.
+We have installed SonarCloud on `bcgov` GitHub Organization for application teams to use. Only repositories inside the bcgov GitHub Organization are supported through this request.
 
 **Are you the admin user of the GitHub repositories?**
 The request requires a repository administrator to make the request. The requestor will be assigned as the SonarCloud repository admin. Requests from a non-admin user will be closed.
