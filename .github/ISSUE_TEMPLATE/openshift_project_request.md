@@ -38,7 +38,18 @@ Are you requesting to:
 - [x] Create a project set
 - [ ] Remove a project set
 
-## Step 4
+
+## Step 4.1
+To address current capacity issues related to the limited Platform CPU, we’ve made the difficult decision to temporarily prioritize new project requests, based on the following criteria, please check the ones that apply to your project.
+
+- [ ] Your project addresses the needs of an urgent COVID-19 response
+- [ ] Your project has been designated as high business priority
+- [ ] You have the DevOps capacity in place to support the development of resilient architecture suitable for multi-node deployment
+
+If you do not meet all of the screening criteria above, don’t despair. Our team welcomes a conversation with you to determine whether we may still be able to accommodate your project at this time.
+
+
+## Step 4.2
 Fill out the following fields
 
 * Short Team/Organization Name: 
@@ -48,6 +59,7 @@ Fill out the following fields
 * Product Group Name (if exists, used to group together OpenShift Project Sets that are related to each other): 
 * Desired Environments: tools, dev, test, prod
 * GitHub Repository (if exists): 
+
 
 ## Step 5
 Submit this ticket and email us the contact information.
