@@ -46,7 +46,7 @@ To address current capacity issues related to the limited Platform CPU, we’ve 
 - [ ] Your project has been designated as high business priority
 - [ ] You have the DevOps capacity in place to support the development of resilient architecture suitable for multi-node deployment
 
-If you do not meet all of the screening criteria above, don’t despair. Our team welcomes a conversation with you to determine whether we may still be able to accommodate your project at this time.
+This is a temporary situation only, which will be resolved when we migrate to OpenShift 4 (OCP 4) in Fall 2020. Our OCP 4 expansion more than doubles current CPU capacity with new production clusters, plus an additional Azure Cloud offering. 
 
 
 ## Step 4.2
