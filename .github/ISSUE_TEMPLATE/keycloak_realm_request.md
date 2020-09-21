@@ -17,6 +17,9 @@ We use IDIR authentication for Realm Admin Users, so make sure there's a *valid 
 **Are you requesting for Identity Provider Update?**
 If so, you need to be the realm admin. Then proceed to Step 3.
 
+## Step 0
+We are currently planning on SSO service name migration, which will affect **all** existing teams on KeyCloak. If you are new to our SSO service or KeyCloak, we recommend you to wait for the migration to complete before starting the request. If you are experienced with KeyCloak integration and ready to work with us during the migration, feel free to continue on.
+
 
 ## Step 1
 Are you new to RedHat Single Sign-On (KeyCloak)? If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
