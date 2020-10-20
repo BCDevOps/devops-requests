@@ -30,9 +30,9 @@ Ask the Realm Admin User to login to each of the following links using the **IDI
 
 When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
 
-- https://sso-dev.pathfinder.gov.bc.ca/auth/admin/idir/console
-- https://sso-test.pathfinder.gov.bc.ca/auth/admin/idir/console
-- https://sso.pathfinder.gov.bc.ca/auth/admin/devhub/console
+- https://dev.oidc.gov.bc.ca/auth/admin/idir/console
+- https://test.oidc.gov.bc.ca/auth/admin/idir/console
+- https://oidc.gov.bc.ca/auth/admin/devhub/console
 
 _Please note that if the Realm Admin User has not completed this step, he/she will not be granted the role for the realms._
 
@@ -68,4 +68,4 @@ Please note that we will only start processing your request when the email has b
 
 
 ## Step 5
-After we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.pathfinder.gov.bc.ca/
+After we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.developer.gov.bc.ca/
