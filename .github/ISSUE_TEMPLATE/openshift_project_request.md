@@ -20,6 +20,9 @@ If not, please do so before you submit the request.
 **Have you scaled down all pods to 0 in all 4 project set namespaces - dev, test, tools and prod ?**
 If not, please do so before you submit the request.
 
+**Have you deleted the persistent volume claims in all 4 project set namespaces - dev, test, tools and prod ?**
+If not, please do so before you submit the request.
+
 ## Step 1
 Make sure no duplicated request exists, search here:
 https://github.com/BCDevOps/devops-requests/issues

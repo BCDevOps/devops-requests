@@ -3,9 +3,11 @@ name: Request to Change Project Set Quotas
 about: Request changes to cpu/storage/etc
 title: ''
 labels: quota-update, pending
-assignees: caggles, ShellyXueHan, sbarre-esit
+assignees: caggles, ShellyXueHan, 
 
 ---
+
+#**This ticket is for 3.11 requests only.** A new quota request process is being built for OCP4. If you submit a request here for an OCP4 namespace quota change, it will be closed without action.
 
 ## Step 0
 **Are you the product owner or technical lead?**
