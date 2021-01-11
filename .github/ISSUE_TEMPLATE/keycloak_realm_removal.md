@@ -1,6 +1,6 @@
 ---
-name: Request for delete a KeyCloak Realm
-about: To delete a set of KeyCloak Realms.
+name: Request for delete a Keycloak Realm
+about: To delete a set of Keycloak Realms.
 title: ''
 labels: keycloak-realm, pending
 assignees: caggles, ShellyXueHan, patricksimonian
@@ -21,7 +21,7 @@ Field the following information.
 * Project Name: 
 
 
-*  KeyCloak realm
+*  Keycloak realm
   - Realm ID: 
 
 
