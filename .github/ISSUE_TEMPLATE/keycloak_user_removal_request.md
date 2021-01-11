@@ -1,5 +1,5 @@
 ---
-name: Request to remove a duplicate user from KeyCloak
+name: Request to remove a duplicate user from Keycloak
 about: To remove an IDIR or BCeID user when username update causes conflicts
 title: ''
 labels: keycloak-user
@@ -8,7 +8,7 @@ assignees: caggles, ShellyXueHan
 ---
 
 ## Step 0
-**Are you the KeyCloak Realm Admin?**
+**Are you the Keycloak Realm Admin?**
 If not, you will need to ask one of the admin user in your realm to make this request instead.
 
 
@@ -19,9 +19,9 @@ Provide some background on the user account issue.
 
 
 ## Step 2
-Deleting the user account from KeyCloak will also remove records with any other application using KeyCloak that the user has logged into. So before proceeding with this request, make sure the user is aware of the consequences!
+Deleting the user account from Keycloak will also remove records with any other application using Keycloak that the user has logged into. So before proceeding with this request, make sure the user is aware of the consequences!
 
-- [ ] Confirm that user is ready to have the account removed from KeyCloak
+- [ ] Confirm that user is ready to have the account removed from Keycloak
 
 
 ## Step 3
