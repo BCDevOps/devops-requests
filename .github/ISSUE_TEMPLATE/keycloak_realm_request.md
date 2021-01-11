@@ -1,6 +1,6 @@
 ---
-name: Request for KeyCloak Realm
-about: To create a set of KeyCloak Realms.
+name: Request for Keycloak Realm
+about: To create a set of Keycloak Realms.
 title: ''
 labels: keycloak-realm, pending
 assignees: caggles, ShellyXueHan
@@ -18,17 +18,17 @@ We use IDIR authentication for Realm Admin Users, so make sure there's a *valid 
 If so, you need to be the realm admin. Then proceed to Step 3.
 
 ## Step 0
-We are currently planning on SSO service name migration, which will affect **all** existing teams on KeyCloak. If you are new to our SSO service or KeyCloak, we recommend you to wait for the migration to complete before starting the request. If you are experienced with KeyCloak integration and ready to work with us during the migration, feel free to continue on.
+We are currently planning on SSO service name migration, which will affect **all** existing teams on Keycloak. If you are new to our SSO service or Keycloak, we recommend you to wait for the migration to complete before starting the request. If you are experienced with Keycloak integration and ready to work with us during the migration, feel free to continue on.
 
 
 ## Step 1
-Are you new to RedHat Single Sign-On (KeyCloak)? If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
+Are you new to RedHat Single Sign-On (Keycloak)? If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
 
 
 ## Step 2
 Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**.
 
-When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on KeyCloak.
+When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on Keycloak.
 
 - https://dev.oidc.gov.bc.ca/auth/admin/idir/console
 - https://test.oidc.gov.bc.ca/auth/admin/idir/console
@@ -46,7 +46,7 @@ Field the following information.
   - Project set name:  (please provide the namespace name in the form of a 6 character alphanumeric code followed by the environment, like so: a1b2c3-prod.)
   - Namespace ID:
 
-* For existing KeyCloak realm update only
+* For existing Keycloak realm update only
   - Realm ID: 
   - Identity Provider to Add
     - [ ] BCeID
