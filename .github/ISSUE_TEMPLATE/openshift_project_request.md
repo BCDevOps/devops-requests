@@ -3,7 +3,7 @@ name: Request for Removal of OCP 3.11 Project Set
 about: To remove an OpenShift 3.11 Project Set after all environments have been migrated to the OCP 4 Platform.
 title: ''
 labels: openshift-project-set, pending
-assignees: caggles, mitovskaol, ShellyXueHan
+assignees: caggles, mitovskaol, ShellyXueHan, patricksimonian
 
 ---
 
@@ -33,6 +33,10 @@ Confirm that you are aware that you are requesting to:
 - [ ] Remove a project set 
 
 **Note: There is no rollback or restore of the deployments once a namespace is deleted.
+
+## Step 3
+Please provide the names of the namespaces to be deleted in the form of a 6 character alphanumeric code followed by the environment, like so: a1b2c3-prod.
+
 
 
 

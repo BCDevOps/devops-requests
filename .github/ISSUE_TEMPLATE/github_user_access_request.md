@@ -3,22 +3,29 @@ name: Request for BCGOV GitHub Organization Membership
 about: To grant or remove access for a team member to BCGOV GitHub repositories.
 title: ''
 labels: github-membership
-assignees: caggles, ShellyXueHan, mitovskaol
+assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 
 ---
 
 ## Step 0
 
-**Are you the Technical Lead?**
-If not, you need to ask your team's Technical Lead role to make this request. This role should be a member of the BCGOV Github org as part of the team onboarding process.
+**Are you looking for access to the Openshift Console?**
+Please note that this ticket is to request membership in our GitHub Organization used for sharing the many open-source projects ongoing at BCGov.
+Typically, membership is required for those employees and contractors who need the ability to create new repositories there.
+This ticket does not grant access to Openshift! There's another ticket template for that!
 
-If you do not have access to a Technical Lead to ask for membership on your behalf, or the Technical Lead has not yet obtained the membership, a member of the Platform Experience team will contact you about your request once you have submitted it.
-We will need to discuss your needs in a quick meeting before this request can be processed! **Please indicate in this ticket if you need to schedule this meeting.** 
-If you've already had a meeting as part of a request for an Openshift Project, please indicate that in the ticket as well.
+**Are you the Technical Lead?**
+If not, you need to ask your team's Technical Lead role to make this request on your behalf. 
+This person must already be a member of the bcgov GitHub Organization in order for us to process this request.
+
+If you are a technical lead and you've come here to request access for yourself, please go ahead and create this ticket, and then 
+contact @mitovskaol (Olena Mitovska) with a link to the ticket so she can approve it.
 
 **Do you actually need the team member to be a member of the organization?**
-- Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team member to contribute as a Collaborator.  
-  Instructions [here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
+Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of 
+the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team 
+member to contribute as a Collaborator.  
+Instructions [here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
 
 
 ## Step 1

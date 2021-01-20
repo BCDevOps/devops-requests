@@ -3,20 +3,32 @@ name: Request for private BCGOV GitHub Repository
 about: To create or remove a private BCGOV GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: caggles, ShellyXueHan, mitovskaol
+assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 
 ---
 
 ## Step 0
 
+**Are you looking to make a public repository?**
+If you are a member of the public bcgov GitHub Organization, you are already able to make a new repo there yourself!
+If you are not a member, please request membership using the appropriate ticket template instead of using this one.
+This template is for **private** repos only.
+
 **Are you a member of the private BCGOV GitHub Organization already?**
 If not, you will need to request membership first. Return to the Issues page and fill out that request first.
 
 **Are you sure you need to have your project code close-sourced?**
-We highly recommend open source, secrets and any sensitive information should never be part of your code based. If you still think your code needs to be private, please provide the details in the request.
+We highly recommend open source, secrets and any sensitive information should never be part of your code based. 
+If you still think your code needs to be private, please provide the details in the request.
 
 **What date will you move your project to open-source?**
-All projects in the private organization are required to be there temporarily. This org is a staging area that permits teams to work on removing private information so that it can be made open-source at a later time. Please include a firm date by which you will move your repository to the open organization.
+All projects in the private organization are required to be there temporarily. 
+This org is a staging area that permits teams to work on removing private information so that it can be made open-source at a later time. 
+Please include a firm date by which you will move your repository to the open organization.
+
+If you feel you cannot move to open-source ever, we strongly encourage you to reconsider.
+However, if you are certain that you require a fully closed-source repo permanently, you can speak to the team on RocketChat to discuss your options.
+Using the private bcgov GitHub Organization may not be the appropriate solution for your team in this case.
 
 ## Step 1
 Make sure no duplicated request exists, search here:

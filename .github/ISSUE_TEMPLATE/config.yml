@@ -1,5 +1,12 @@
 blank_issues_enabled: false
 contact_links:
+  - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
+    url: https://registry.developer.gov.bc.ca
+    about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
+  - name: Request access to RocketChat
+    url: https://developer.gov.bc.ca/Steps-to-join-Rocket.Chat
+    about: Did you know that most employees and contractors don't need to an invite to join Rocketchat? You can log straight in! More info at the link!
   - name: Human help needed
     url: https://developer.gov.bc.ca/Getting-human-support-for-issues-not-covered-by-devops-requests
-    about: Please come talk to BCGov Developer Experience if you have questions/issues.
+    about: The community on RocketChat is always eager to help with your technical questions!
+

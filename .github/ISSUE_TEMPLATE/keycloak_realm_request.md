@@ -3,13 +3,14 @@ name: Request for Keycloak Realm
 about: To create a set of Keycloak Realms.
 title: ''
 labels: keycloak-realm, pending
-assignees: caggles, ShellyXueHan
+assignees: caggles, ShellyXueHan, patricksimonian
 
 ---
 
 ## Step 0
 **Are you the product owner or project admin/team lead?**
-If not, you will need to ask one of those two people to make this request for you. We can't process realm requests except from individuals in these roles.
+If not, you will need to ask one of those two people to make this request for you. 
+We can't process realm requests except from individuals in these roles.
 
 **Does the Admin User have an IDIR account?**
 We use IDIR authentication for Realm Admin Users, so make sure there's a *valid IDIR* for the assigned realm admin.  
@@ -18,17 +19,20 @@ We use IDIR authentication for Realm Admin Users, so make sure there's a *valid 
 If so, you need to be the realm admin. Then proceed to Step 3.
 
 ## Step 0
-We are currently planning on SSO service name migration, which will affect **all** existing teams on Keycloak. If you are new to our SSO service or Keycloak, we recommend you to wait for the migration to complete before starting the request. If you are experienced with Keycloak integration and ready to work with us during the migration, feel free to continue on.
+We are currently planning on SSO service name migration, which will affect **all** existing teams on Keycloak. 
+If you are new to our SSO service or Keycloak, we recommend you to wait for the migration to complete before starting the request. 
+If you are experienced with Keycloak integration and ready to work with us during the migration, feel free to continue on.
 
 
 ## Step 1
-Are you new to RedHat Single Sign-On (Keycloak)? If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
+Are you new to RedHat Single Sign-On (Keycloak)? 
+If so, please indicate that in Step 4, we will setup an meeting with you and your team for an on-boarding meeting. 
 
 
 ## Step 2
 Ask the Realm Admin User to login to each of the following links using the **IDIR credentials**.
 
-When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will actually create the initial account on Keycloak.
+When you login, you will see a "_Forbidden_" message, but this is expected behaviour and will create the initial account on Keycloak.
 
 - https://dev.oidc.gov.bc.ca/auth/admin/idir/console
 - https://test.oidc.gov.bc.ca/auth/admin/idir/console
@@ -68,4 +72,4 @@ Please note that we will only start processing your request when the email has b
 
 
 ## Step 5
-After we have completed processing your request, you can proceed to creating a realm at Realm-O-Matic: https://realm-o-matic.developer.gov.bc.ca/
+After we have completed processing your request, you can proceed to creating a realm at [Realm-O-Matic](https://realm-o-matic.developer.gov.bc.ca)
