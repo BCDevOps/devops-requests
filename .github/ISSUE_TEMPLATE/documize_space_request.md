@@ -3,7 +3,7 @@ name: Request for Protected Documize Space
 about: To create a private and protected Documize Space for team documents.
 title: ''
 labels: documize-space
-assignees: caggles, ShellyXueHan
+assignees: caggles, ShellyXueHan, patricksimonian
 
 ---
 
@@ -13,7 +13,7 @@ If not, you will need to ask one of those two people to make this request.
 
 
 ## Step 1
-Login to Documize with either an IDIR or GitHub account to create a Documzie user record:
+Login to Documize with either an IDIR or GitHub account to create a Documize user record:
 http://docs.pathfinder.gov.bc.ca/
 
 

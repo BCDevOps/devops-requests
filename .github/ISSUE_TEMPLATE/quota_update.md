@@ -1,15 +1,17 @@
 ---
-name: Request to Change Project Set Quotas
+name: Request to Change OCP 3.11 Project Set Quotas
 about: Request changes to cpu/storage/etc
 title: ''
 labels: quota-update, pending
-assignees: caggles, ShellyXueHan, 
+assignees: caggles, ShellyXueHan, patricksimonian
 
 ---
 
-#**This ticket is for 3.11 requests only.** A new quota request process is being built for OCP4. If you submit a request here for an OCP4 namespace quota change, it will be closed without action.
-
 ## Step 0
+**Are you making this request for OCP4?**
+In OCP4, you can now make this change yourself with our [Project Registry](https://registry.developer.gov.bc.ca/) tool! 
+Just click the link and login. If you submit a request here for an OCP4 namespace, please note that it will be closed without action.
+
 **Are you the product owner or technical lead?**
 If not, you will need to ask one of those two people to make this request.
 

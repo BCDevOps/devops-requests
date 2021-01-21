@@ -1,17 +1,28 @@
-## DevOps Requests:
-To get started on the DevOps platform, you and your team will need access to certain resources. This is the place to request them.
+## DevOps Requests
 
-### In a nutshell:
-We are using this GitHub repository to manage the requests. Each request will be in a _GitHub Issue_.
+We aim to empower teams to fulfill their own requirements and solve their own problems as much as possible!
+However, practically speaking, there are always going to be certain tasks that require elevated privileges to perform.
+That's where DevOps Requests comes in! Click on `Issues` above to get started!
 
-### How to create a request:
-- Go to the [Issues page](https://github.com/BCDevOps/devops-requests/issues)
-- Create an issue based on a _Issue Template_ that matches your need. **NOTE**: To enable automation in this process, please follow the instructions and format according to the templates. For any contact information required, __please only provide  business contact information.__
-- Once a request has been created, the provisioning process will start. We will post updates on the _GitHub Issue_.
+These tickets are templated and quite formal, because the vast majority of such requests are going to be a very normal part of
+our every-day work. Because of this, many of these permissions-related tasks have been automated.
+If you came here expecting to find a ticket to perform a certain task and that task is missing, that might be because the task
+has been automated by a tool! We've added links to those relevant tools as part of the list of templates where possible.
+
+If you cannot find a ticket or automated tool relevant to your needs, check the FAQ below. 
+If that doesn't answer your question, head back over to the list of Issue Templates. There, you'll find a template called
+`New Request Type`. That is a ticket where you can request that we add a template for the type of request you're looking for.
+
+## Request FAQs
+
+### How do I get access to Aporeto?
+
+You don't need to! Our zero-trust policy mandates that Aporeto be active in every namespace, right from the moment it's created.
+Aporeto is already working in your namespace when it gets created. Find out more about Aporeto and Zero Trust on the [DevHub](https://developer.gov.bc.ca/Platform-Services-Security/Developer-Guide-to-Zero-Trust-Security-Model-on-the-Platform)
+
+### How do I get access to Artifactory?
+
+Every new project set comes with an automatically created Artifactory account, which you can use right away to access the caching repositories.
+Find out more about your account and how to use it on the [DevHub](https://developer.gov.bc.ca/Artifact-Repositories)
 
 
-### Request types:
-
-You can find our complete list of request types by clicking on the Issues tab above.
-
-If you cannot find an appropriate request the list, you can request a new request type (there is a request template to do so) or click on the "Human Help" link to get further instructions on how to contact the team for guidance.
