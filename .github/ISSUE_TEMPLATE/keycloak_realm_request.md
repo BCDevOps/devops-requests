@@ -19,9 +19,9 @@ We use IDIR authentication for Realm Admin Users, so make sure there's a *valid 
 If so, you need to be the realm admin. Then proceed to Step 3.
 
 ## Step 0
-We are currently planning on SSO service name migration, which will affect **all** existing teams on Keycloak. 
-If you are new to our SSO service or Keycloak, we recommend you to wait for the migration to complete before starting the request. 
-If you are experienced with Keycloak integration and ready to work with us during the migration, feel free to continue on.
+We are currently migrating SSO service to OCP4, which will cause service downtime / maintenance windows on Keycloak.
+***Thus we will not onboard any new teams until migration is completed.***
+Expected completion date is Feb 11th, see details here: https://developer.gov.bc.ca/BC-Gov-SSO-Service-Migration
 
 
 ## Step 1
