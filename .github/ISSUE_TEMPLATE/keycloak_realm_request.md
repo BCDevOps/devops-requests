@@ -3,7 +3,7 @@ name: Request for Keycloak Realm
 about: To create a set of Keycloak Realms.
 title: ''
 labels: keycloak-realm, pending
-assignees: caggles, ShellyXueHan, patricksimonian
+assignees: nvunnamm, ConradBoydElliottGustafson
 
 ---
 
