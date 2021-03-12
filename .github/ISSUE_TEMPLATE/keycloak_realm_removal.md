@@ -2,7 +2,7 @@
 name: Request for delete a Keycloak Realm
 about: To delete a set of Keycloak Realms.
 title: ''
-labels: keycloak-realm, pending
+labels: keycloak-realm, pending, keycloak
 assignees: nvunnamm, ConradBoydElliottGustafson
 
 ---
