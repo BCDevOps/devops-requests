@@ -6,6 +6,7 @@ labels: openshift-access
 assignees: caggles, ShellyXueHan, patricksimonian
 
 ---
+**Please provide answers to all the questions below to ensure your request is processed without any delays.** 
 
 ## Step 0
 **Are you the product owner or technical lead?**
