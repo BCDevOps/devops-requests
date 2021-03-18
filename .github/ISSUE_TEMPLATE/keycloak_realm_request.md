@@ -2,7 +2,7 @@
 name: Request for Keycloak Realm
 about: To create a set of Keycloak Realms.
 title: ''
-labels: keycloak-realm, pending, keycloak
+labels: keycloak-realm, pending, sso
 assignees: nvunnamm
 
 ---
