@@ -10,7 +10,7 @@ assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below.
 ### Gaining Access
 
-If you are making a simple request to invite someone or yourself to the bcgov or bcdevops organizations, this can now be done with the
+If you are making a simple request to invite someone or yourself to the bcgov or BCDevOps organizations in GitHub, this can now be done with the
 [Platform Service's Github Access Managmenet Tool](https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/). You do not need to create this github issue. If you are __asking to invite yourself to an org__ please note that the request will not be automatically approved. An administrator of the bcgov and bcdevops github organizations will still need to approve the request. If this is not done in a timely manner please continue creating this github issue with a small note describing your situation. 
 
 ## Removing Access
