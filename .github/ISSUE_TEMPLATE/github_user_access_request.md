@@ -5,6 +5,11 @@ title: ''
 labels: github-membership
 assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 ---
+## What we use GitHub Org Membership for
+
+We use the membership in the GitHub org - bcgov and BCDevOps - to control access to the following functions on the DevOps Openshift Platform: 
+- a membership in **bcgov** org allows teams to create **public** repos in bcgov org and to deploy their code to the Openshift Platform
+- a membership in **BCDevOps** org grants developers access to the Openshift 4 Console (Silver cluster). Note that it does **not** grant access to any namespaces in Openshift. Access to the namespaces is granted to Product Owner and Technical Lead through the Project Registry at the time of the namespace creation or can be granted by them to other team members.
 ## Changes to Github Organization Membership Requests
 
 There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below.
