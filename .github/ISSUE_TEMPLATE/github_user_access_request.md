@@ -5,7 +5,7 @@ title: ''
 labels: github-membership
 assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 ---
-## Github Access
+## Changes to Github Organization Membership Requests
 
 There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below.
 ### Requesting a membership in bcgov and BCDevOps orgs
