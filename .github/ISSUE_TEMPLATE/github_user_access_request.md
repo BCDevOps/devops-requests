@@ -11,7 +11,11 @@ There have been changes to the Github Access management workflow to __better aut
 ### Gaining Access
 
 If you are making a simple request to invite someone or yourself to the bcgov or BCDevOps organizations in GitHub, this can now be done with the
-[Platform Service's Github Access Managmenet Tool](https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/). You do not need to create this github issue. If you are __asking to invite yourself to an org__ please note that the request will not be automatically approved. An administrator of the bcgov and bcdevops github organizations will still need to approve the request. If this is not done in a timely manner please continue creating this github issue with a small note describing your situation. 
+[Platform Service's Github Access Managmenet Tool](https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/). You do not need to open a ticket or create a GitHub issue anymore, please use the app for all org membership requests. 
+
+If you are a member in bcgov or BCDevOps org and are inviting another user to the org, your request will be approved automatically and processed right away.  The invited user will get an invite in the email to join the org. Only after the invite is accepted, the membership will be granted to the invite user's GitHub ID account.
+
+If you are __asking to invite yourself to an org__ please note that the request will not be automatically approved. An administrator of the bcgov and bcdevops github organizations will still need to approve the request. If this is not done in a timely manner please ping one of our Platform Admin @patricksimonian @cailey.jones or @shelly.han in [#devops-operations](https://chat.developer.gov.bc.ca/channel/devops-operations) channel in Rocket.Chat.
 
 ## Removing Access
 
