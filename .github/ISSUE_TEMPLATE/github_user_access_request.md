@@ -8,7 +8,7 @@ assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 ## Github Access
 
 There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below.
-### Gaining Access
+### Requesting a membership in bcgov and BCDevOps orgs
 
 If you are making a simple request to invite someone or yourself to the bcgov or BCDevOps organizations in GitHub, this can now be done with the
 [Platform Service's Github Access Managmenet Tool](https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/). You do not need to open a ticket or create a GitHub issue anymore, please use the app for all org membership requests. 
