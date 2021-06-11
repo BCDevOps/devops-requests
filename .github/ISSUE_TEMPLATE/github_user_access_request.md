@@ -30,7 +30,7 @@ There are three GitHub orgs that are managed by BC Government:
 
 ## Changes to Github Organization Membership Requests
 
-There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below.
+There have been changes to the Github Access management workflow to __better automate__ the process. Please read the details below. There is also a [YouTube video describing the workflow](https://www.youtube.com/watch?v=IvdPyx2-qm0)
 
 ### Requesting membership to bcgov and BCDevOps orgs
 
