@@ -43,7 +43,7 @@ If you are __asking to invite yourself to an org__ please note that the request 
 
 ### Requesting membership to bcgov-c
 
-TODO
+These requests are not fulfilled through this issue. Typically requesting access to the org is done at the repository collaboration level. You will need to get in contact with the repo admin for access. If you are seeking a new private repository see [Requesting a Private Repository](https://github.com/BCDevOps/devops-requests/issues/new?assignees=caggles%2C+ShellyXueHan%2C+mitovskaol%2C+patricksimonian&labels=github-repo%2C+pending&template=github_repo_request.md&title=)
 
 ## Removing Access
 
