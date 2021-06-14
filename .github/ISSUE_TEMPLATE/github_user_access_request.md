@@ -13,18 +13,18 @@ assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 There are three GitHub orgs that are managed by BC Government:
 - __bcgov__: 
   - __Is used__ for public repos/projects/applications for BC Government. 
-  - Allows teams to create new repositories in the organization.
-  - You do not need org membership to contribute to these repositories.
-  - Membership access is simplified and requires approval only in special cases.
+  - Membership in this organization is required to create new repositories in the organization.
+  - **You do not need org membership to contribute to these repositories.**
+  -  Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required when a request is made on your own behalf
 - __BCDevops__: 
   - Is used for devops specific tooling and issue tracking related to the Openshift 4 Platform.
   - __Is not used__ for public BC Government applications/projects 
-  - Manages __Openshift 4 Console__ access.
+  - Membership in **BCDevOps** org is required to access [__Openshift 4 Silver Cluster Console__](https://console.apps.silver.devops.gov.bc.ca/dashboards).
   - You do not need org membership to contribute to these repositories.
-  - Membership access is simplified and requires approval only in special cases.
+  -   Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required when a request is made on your own behalf
 - __bcgov-c__: 
   - __Is used__ for private repositories/projects.
-  - Org membership is limited and only granted in special cases.
+  - Org membership is limited, by Platform Services Team's approval only  and only granted in special cases. 
 
 
 
