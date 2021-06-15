@@ -1,5 +1,5 @@
 ---
-name: Request for Openshift and BCGOV GitHub Organization Membership
+name: Request for Openshift Access and BCGOV GitHub Organization Membership
 about: To grant or remove access for a team member to BCGOV GitHub repositories and Openshift.
 title: ''
 labels: 
@@ -21,11 +21,10 @@ There are three GitHub orgs that are managed by BC Government:
   - __Is not used__ for public BC Government applications/projects 
   - Membership in **BCDevOps** org is required to access [__Openshift 4 Silver Cluster Console__](https://console.apps.silver.devops.gov.bc.ca/dashboards).
   - You do not need org membership to contribute to these repositories.
-  -   Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required when a request is made on your own behalf
+  -   Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required for the requests submitted by a user for themselves
 - __bcgov-c__: 
   - __Is used__ for private repositories and contains code for closed-source projects.
-  - Org membership is limited, by Platform Services Team's approval only as it requires a user license  and is only granted in special cases. 
-
+  - Org membership is required to create private reports and all requests require Platform Services Team's approval as a new user license needs to be procured. Submit a request for a private org membership [here](https://github.com/BCDevOps/devops-requests/issues/new?assignees=caggles%2C+ShellyXueHan%2C+mitovskaol%2C+patricksimonian&labels=github-repo%2C+pending&template=github_repo_request.md&title=)
 
 
 ## Changes to Github Organization Membership Requests
@@ -43,13 +42,13 @@ If you are __asking to invite yourself to an org__ please note that the request 
 
 ### Requesting membership to bcgov-c
 
-These requests are not fulfilled through this issue. Typically requesting access to the org is done at the repository collaboration level. You will need to get in contact with the repo admin for access. If you are seeking a new private repository see [Requesting a Private Repository](https://github.com/BCDevOps/devops-requests/issues/new?assignees=caggles%2C+ShellyXueHan%2C+mitovskaol%2C+patricksimonian&labels=github-repo%2C+pending&template=github_repo_request.md&title=)
+These requests are not fulfilled through this issue. Typically requesting access to a private repo is done at the repository collaboration level. You will need to get in contact with the repo admin for access. If you are seeking to create **a new private repository** see [Requesting a Private Repository](https://github.com/BCDevOps/devops-requests/issues/new?assignees=caggles%2C+ShellyXueHan%2C+mitovskaol%2C+patricksimonian&labels=github-repo%2C+pending&template=github_repo_request.md&title=)
 
 ## Removing Access
 
 If you are removing access please **provide responses to all the steps below**. All questions are mandatory.
 
-## Step 1
+### Step 1
 
 **Are you the Technical Lead?**
 If not, you need to ask your team's Technical Lead role to make this request on your behalf. 
@@ -58,7 +57,7 @@ This person must already be a member of the bcgov GitHub Organization in order f
 If you are a technical lead and you've come here to request access for yourself, please go ahead and create this ticket, and then 
 contact @mitovskaol (Olena Mitovska) with a link to the ticket so she can approve it.
 
-## Step 2
+### Step 2
 Fill out the following fields
 
 * Project Name:
