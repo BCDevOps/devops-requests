@@ -12,7 +12,7 @@ assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
 
 There are three GitHub orgs that are managed by BC Government:
 - __bcgov__: 
-  - __Is used__ for public repos/projects/applications for BC Government. 
+  - __Is used__ for public repositories and contains all open-source code owned by BC Government. 
   - Membership in this organization is required to create new repositories in the organization.
   - **You do not need org membership to contribute to these repositories.**
   -  Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required for the requests submitted by a user for themselves.
