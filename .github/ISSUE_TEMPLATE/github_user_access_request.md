@@ -24,7 +24,7 @@ There are three GitHub orgs that are managed by BC Government:
   -   Membership requests submitted for a new member by an existing member are **approved automatically**. Platform Services Team's approval is required when a request is made on your own behalf
 - __bcgov-c__: 
   - __Is used__ for private repositories/projects.
-  - Org membership is limited, by Platform Services Team's approval only  and only granted in special cases. 
+  - Org membership is limited, by Platform Services Team's approval only as it requires a user license  and is only granted in special cases. 
 
 
 
