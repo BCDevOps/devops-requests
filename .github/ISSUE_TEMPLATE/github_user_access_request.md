@@ -39,7 +39,7 @@ If you are making a simple request to invite someone or yourself to the bcgov or
 
 If you are a member in bcgov or BCDevOps org and are inviting another user to the org, your request will be approved automatically and processed right away.  The invited user will get an invite in the email to join the org. Only after the invite is accepted, the membership will be granted to the invited user's GitHub ID account.
 
-If you are __asking to invite yourself to an org__ please note that the request will **not** be automatically approved. An administrator of the bcgov and bcdevops github organizations will still need to approve the request. If this is not done in a timely manner please ping one of our Platform Admin @patrick.simonian @cailey.jones or @shelly.han in [#devops-operations](https://chat.developer.gov.bc.ca/channel/devops-operations) channel in Rocket.Chat.
+If you are __asking to invite yourself to an org__ please note that the request will **not** be automatically approved. The Platform Services Team will need to review the request to confirm your affiliation with the BC Government (**please indicate in the request if you are a government employee or include the name of the project and Ministry that you are working on, if you are a contractor, to expedite the approval process) before it can be approves. If this is not done in a timely manner please ping one of our Platform Admin @patrick.simonian @cailey.jones or @shelly.han in [#devops-operations](https://chat.developer.gov.bc.ca/channel/devops-operations) channel in Rocket.Chat.
 
 ### Requesting membership to bcgov-c
 
