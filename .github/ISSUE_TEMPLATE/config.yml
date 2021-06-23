@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Request user membership to Openshift or BC Gov/BCDevOps orgs
+    url: https://developer.gov.bc.ca/User-access-into-Github-or-Openshift
+    about: These tasks are now self-serve :) 
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
