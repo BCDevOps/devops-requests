@@ -31,23 +31,12 @@ Field the following information.
   - [ ] GitHub
   - [ ] IDIR
 
-## Step 3
-Field the following information.
-
-* Project Name: 
-
-* Identity Providers Required
-  - [ ] BCeID Basic
-  - [ ] BCeID Business
-  - [ ] GitHub
-  - [ ] IDIR
-
 * A list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.*
   - DEV redirect URL(s): 
   - TEST redirect URL(s): 
   - PROD redirect URL(s):
 
-## Step 4
+## Step 3
 For teams requesting access to BCeID, there is an approval process. Please provide the following information on this ticket. The IDIM team will review this information and will be in touch with you at the email provided.
 The OCP-SSO team will provision your DEV and TEST clients right away, and your PROD client will be provisioned when the IDIM team approves your request.
 
@@ -65,7 +54,7 @@ The OCP-SSO team will provision your DEV and TEST clients right away, and your P
 * Date of release in production environment:
 * Date of first use by citizens or end users:
 
-## Step 5
+## Step 4
 Submit this ticket and email us the contact information.
 
 For security purpose, please provide the following contact information to the email address - Vardhman.Shankar@gov.bc.ca
