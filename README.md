@@ -15,11 +15,6 @@ If that doesn't answer your question, head back over to the list of Issue Templa
 
 ## Request FAQs
 
-### How do I get access to Aporeto?
-
-You don't need to! Our zero-trust policy mandates that Aporeto be active in every namespace, right from the moment it's created.
-Aporeto is already working in your namespace when it gets created. Find out more about Aporeto and Zero Trust on the [DevHub](https://developer.gov.bc.ca/Platform-Services-Security/Developer-Guide-to-Zero-Trust-Security-Model-on-the-Platform)
-
 ### How do I get access to Artifactory?
 
 Every new project set comes with an automatically created Artifactory account, which you can use right away to access the caching repositories.
