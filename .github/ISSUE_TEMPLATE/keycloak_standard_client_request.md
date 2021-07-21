@@ -1,5 +1,5 @@
 ---
-name: Request for an SSO Client in a standard realm
+name: Request for an Pathfinder SSO Client in a standard realm
 about: To create a set of SSO clients (in KeyCloak DEV, TEST, PROD).
 title: ''
 labels: keycloak-client, pending, sso
@@ -35,6 +35,10 @@ Field the following information.
   - DEV redirect URL(s): 
   - TEST redirect URL(s): 
   - PROD redirect URL(s):
+
+* Client Type Required
+  - [ ] Confidential Client (most secure but not appropriate for all architectures)
+  - [ ] Public Client with PKCE
 
 ## Step 3
 For teams requesting access to BCeID, there is an approval process. Please provide the following information on this ticket. The IDIM team will review this information and will be in touch with you at the email provided.
