@@ -28,7 +28,6 @@ Field the following information.
 * Identity Providers Required
   - [ ] BCeID Basic
   - [ ] BCeID Business
-  - [ ] GitHub
   - [ ] IDIR
 
 * A list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.*
