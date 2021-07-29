@@ -42,7 +42,7 @@ Are you requesting to:
 
 
 ## Step 3
-Fill out the following fields. For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
+Fill out the following fields. For security purpose, please provide the following contact information to the email address - platformservicesteam@gov.bc.ca
 
 * Project Name: 
 * GitHub Org: bcgov or private

@@ -14,7 +14,7 @@ If not, you will need to ask one of those two people to make this request.
 
 ## Step 1
 Login to Documize with either an IDIR or GitHub account to create a Documize user record:
-http://docs.pathfinder.gov.bc.ca/
+http://docs.developer.gov.bc.ca/
 
 
 ## Step 2
@@ -39,7 +39,7 @@ Fill out the following fields
 ## Step 5
 Submit this ticket and email us the contact information.
 
-For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
+For security purpose, please provide the following contact information to the email address - platformservicesteam@gov.bc.ca
 
 * link to the GitHub ticket you just created: 
 * Space Admin User
