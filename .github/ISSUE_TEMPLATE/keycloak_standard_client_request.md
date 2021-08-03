@@ -1,5 +1,5 @@
 ---
-name: Request for an Pathfinder SSO Client in a standard realm
+name: Request for an KeyCloak SSO Client in a standard realm
 about: To create a set of SSO clients (in KeyCloak DEV, TEST, PROD).
 title: ''
 labels: keycloak-client, pending, sso
