@@ -1,9 +1,9 @@
 ---
-name: Request for delete a Keycloak Realm
-about: To delete a set of Keycloak Realms.
+name: Request for delete a Pathfinder SSO Realm
+about: To delete a set of Pathfinder SSO Realms.
 title: ''
 labels: keycloak-realm, pending, sso
-assignees: nvunnamm
+assignees: jlangy, junminahn, brycereid73, arcshiftsolutions, zsamji
 
 ---
 
@@ -29,7 +29,7 @@ Field the following information.
 ## Step 4
 Submit this ticket and email us the contact information.
 
-For security purpose, please provide the following contact information to the email address - platformservicesteam@gov.bc.ca
+For security purpose, please provide the following contact information to the email address - zorin.samji@gov.bc.ca
 
 * Email to reach out for On-Boarding meeting invitation:
 * link to the GitHub ticket you just created: 
