@@ -1,13 +1,17 @@
 ---
-name: Request for an KeyCloak SSO Client in a standard realm
-about: To create a set of SSO clients (in KeyCloak DEV, TEST, PROD).
+name: Request for an KeyCloak SSO Client with BCeID in a standard realm
+about: To create a set of BCeID-enabled SSO clients (in KeyCloak DEV, TEST, PROD).
 title: ''
-labels: keycloak-client, pending, sso
-assignees: nvunnamm
+labels: keycloak-client, pending, sso, BCeID
+assignees: jlangy, junminahn, brycereid73, arcshiftsolutions, zsamji
 
 ---
 
-**If you have an urgent request, please contact our Product Owner at Vardhman.Shankar@gov.bc.ca**
+For detailed information on the service, please reference the [Pathfinder SSO Wiki](https://github.com/bcgov/ocp-sso/wiki).
+
+**This GitHub request process is only applicable for teams looking for integration with BCeID through Pathfinder SSO.** If you only need IDIR login, use the [Pathfinder SSO Client Request Web App](https://bcgov.github.io/sso-requests/). If you are looking for integration for IDIR login the process is completely self-serve and takes only minutes. You will need an IDIR to log in and you _should_ be a product owner, product admin, or team lead for a project. Once the automated provisioning is complete, your client details will be available securely through the web app. 
+
+**If you have an urgent request, please contact the Pathfinder SSO Product Owner at zorin.samji@gov.bc.ca**
 
 ## Step 0
 **Are you the product owner or project admin/team lead?**
@@ -25,12 +29,13 @@ Field the following information.
 
 * Project Name: 
 
-* Identity Providers Required
+* Identity Providers Required (Note: GitHub integration is available in all standard realms for developer convenience. It is not in Production).
   - [ ] BCeID Basic
   - [ ] BCeID Business
-  - [ ] IDIR
+  - [ ] Both BCeID Basic AND BCeID Business
+  - [X] IDIR (provided by default in all standard realms)
 
-* A list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.*
+* A list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.* If you do not know the URLs for all your environments, you can use a temporary one such as "http://localhost:5000" and change it later.
   - DEV redirect URL(s): 
   - TEST redirect URL(s): 
   - PROD redirect URL(s):
@@ -60,7 +65,7 @@ The OCP-SSO team will provision your DEV and TEST clients right away, and your P
 ## Step 4
 Submit this ticket and email us the contact information.
 
-For security purpose, please provide the following contact information to the email address - Vardhman.Shankar@gov.bc.ca
+For security purpose, please provide the following contact information to the email address - zorin.samji@gov.bc.ca
 
 * Email to reach out for On-Boarding meeting invitation:
 * link to the GitHub ticket you just created: 
