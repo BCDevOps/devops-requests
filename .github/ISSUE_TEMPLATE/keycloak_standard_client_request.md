@@ -1,6 +1,6 @@
 ---
-name: Request for an KeyCloak SSO Client with BCeID in a standard realm
-about: To create a set of BCeID-enabled SSO clients (in KeyCloak DEV, TEST, PROD).
+name: Request for an KeyCloak SSO Client in a standard realm
+about: To create a set of SSO clients (in KeyCloak DEV, TEST, PROD).
 title: ''
 labels: keycloak-client, pending, sso, BCeID
 assignees: jlangy, junminahn, brycereid73, arcshiftsolutions, zsamji
