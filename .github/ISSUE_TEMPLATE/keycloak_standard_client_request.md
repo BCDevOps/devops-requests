@@ -21,28 +21,28 @@ We cannot process realm requests except from individuals in these roles.
 **Note:** This SSO service is undergoing upgrades in 2021 and is currently not recommended for critical applications. Support is currently available only during business hours and only on a best efforts basis. If your application is critical, please contact Web Access Management (WAM) and/or Provincial Identity Information Management Program (IDIM).
 
 ## Step 1
-Are you new to Single Sign-On (Keycloak)? 
-If so, please indicate that in Step 4, we will setup a meeting with you and your team for an onboarding meeting. 
-
-## Step 2
 Field the following information.
 
-* Project Name: 
+Project Name: 
 
-* Identity Providers Required 
+## Step 2
+Select BCeID identity provider flavour
+
 (Note: GitHub integration is available in all standard realms for developer convenience. It is not in Production).
+
 (Note: If you are not looking for BCeID integration use the [Pathfinder SSO Client Request Web App](https://bcgov.github.io/sso-requests/) instead of submitting this issue)
   - [ ] BCeID Basic
   - [ ] BCeID Business
   - [ ] Both BCeID Basic AND BCeID Business
   - [X] IDIR (provided by default in all standard realms)
 
-* A list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.* If you do not know the URLs for all your environments, you can use a temporary one such as "http://localhost:5000" and change it later.
+## Step 3
+Provide a list of redirect URLs for each environment (DEV, TEST, PROD). *These are the URLs that your application is allowed to use after sign-on events are complete. These are the secure "front door" for your application.* If you do not know the URLs for all your environments, you can use a temporary one such as "http://localhost:5000" and change it later.
   - DEV redirect URL(s): 
   - TEST redirect URL(s): 
   - PROD redirect URL(s):
 
-## Step 3
+## Step 4
 For teams requesting access to BCeID, there is an approval process. Please provide the following information on this ticket. The IDIM team will review this information and will be in touch with you at the email provided.
 The OCP-SSO team will provision your DEV and TEST clients right away, and your PROD client will be provisioned when the IDIM team approves your request.
 
@@ -60,7 +60,7 @@ The OCP-SSO team will provision your DEV and TEST clients right away, and your P
 * Date of release in production environment:
 * Date of first use by citizens or end users:
 
-## Step 4
+## Step 5
 Submit this ticket and email us the contact information.
 
 For security purpose, please provide the following contact information to the email address - bcgov.sso@gov.bc.ca
@@ -69,5 +69,6 @@ For security purpose, please provide the following contact information to the em
 * link to the GitHub ticket you just created: 
 * Product Owner's IDIR name: 
 * Product Owner's Business Email Address: 
+* Are you new to Single Sign-On (Keycloak)? If so, we will setup a meeting with you and your team for an onboarding meeting. 
 
 Please note that we will only start processing your request when the email has been received.
