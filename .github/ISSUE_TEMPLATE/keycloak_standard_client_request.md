@@ -11,7 +11,7 @@ For detailed information on the service, please reference the [Pathfinder SSO Wi
 
 **This GitHub request process is only applicable for teams looking for integration with BCeID through Pathfinder SSO.** If you only need IDIR login, use the [Pathfinder SSO Client Request Web App](https://bcgov.github.io/sso-requests/). If you are looking for integration for IDIR login the process is completely self-serve and takes only minutes. You will need an IDIR to log in and you _should_ be a product owner, product admin, or team lead for a project. Once the automated provisioning is complete, your client details will be available securely through the web app. 
 
-**If you have an urgent request, please contact the Pathfinder SSO Product Owner at zorin.samji@gov.bc.ca**
+**If you have an urgent request, please contact the Pathfinder SSO Product Owner at bcgov.sso@gov.bc.ca**
 
 ## Step 0
 **Are you the product owner or project admin/team lead?**
@@ -65,7 +65,7 @@ The OCP-SSO team will provision your DEV and TEST clients right away, and your P
 ## Step 4
 Submit this ticket and email us the contact information.
 
-For security purpose, please provide the following contact information to the email address - zorin.samji@gov.bc.ca
+For security purpose, please provide the following contact information to the email address - bcgov.sso@gov.bc.ca
 
 * Email to reach out for On-Boarding meeting invitation:
 * link to the GitHub ticket you just created: 
