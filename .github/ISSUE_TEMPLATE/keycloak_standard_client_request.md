@@ -29,7 +29,9 @@ Field the following information.
 
 * Project Name: 
 
-* Identity Providers Required (Note: GitHub integration is available in all standard realms for developer convenience. It is not in Production).
+* Identity Providers Required 
+(Note: GitHub integration is available in all standard realms for developer convenience. It is not in Production).
+(Note: If you are not looking for BCeID integration use the [Pathfinder SSO Client Request Web App](https://bcgov.github.io/sso-requests/) instead of submitting this issue)
   - [ ] BCeID Basic
   - [ ] BCeID Business
   - [ ] Both BCeID Basic AND BCeID Business
@@ -39,10 +41,6 @@ Field the following information.
   - DEV redirect URL(s): 
   - TEST redirect URL(s): 
   - PROD redirect URL(s):
-
-* Client Type Required
-  - [ ] Confidential Client (most secure but not appropriate for all architectures)
-  - [ ] Public Client with PKCE
 
 ## Step 3
 For teams requesting access to BCeID, there is an approval process. Please provide the following information on this ticket. The IDIM team will review this information and will be in touch with you at the email provided.
