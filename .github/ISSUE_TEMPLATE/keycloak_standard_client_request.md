@@ -3,7 +3,7 @@ name: Request for an Pathfinder SSO Client in a standard realm
 about: To create a set of Pathfinder SSO clients (in KeyCloak DEV, TEST, PROD).
 title: ''
 labels: keycloak-client, pending, sso, BCeID
-assignees: jlangy, junminahn, brycereid73, arcshiftsolutions, zsamji, nvunnamm
+assignees: jlangy, junminahn, arcshiftsolutions, zsamji, nvunnamm, ConradBoydElliottGustafson
 
 ---
 
