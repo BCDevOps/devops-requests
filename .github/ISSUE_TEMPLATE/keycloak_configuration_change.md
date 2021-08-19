@@ -1,9 +1,9 @@
 ---
-name: Request for a configuration change to a Pathfinder SSO Realm or Pathfinder SSO standard client
-about: To make a configuration change to a Pathfinder SSO Realm or Pathfinder SSO standard client
+name: Pathfinder SSO Generic Request
+about: To make a configuration change to a Pathfinder SSO Realm or Pathfinder SSO standard client or to ask for help
 title: ''
 labels: keycloak-realm, pending, sso, standard realm, configuration
-assignees: jlangy, junminahn, brycereid73, arcshiftsolutions, zsamji, nvunnamm
+assignees: jlangy, junminahn, arcshiftsolutions, zsamji, nvunnamm, ConradBoydElliottGustafson
 
 ---
 ## Step 1
@@ -14,7 +14,6 @@ Confirm that you are submitting the right issue type.
 
 ## Step 2
 Description of the problem or change that is required.
-Detailed description of the configuration change required (if known).
 
 ## Step 3
 Provide the following information:
