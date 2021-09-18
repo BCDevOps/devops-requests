@@ -2,7 +2,7 @@
 name: Request to remove a duplicate user from Keycloak
 about: To remove an IDIR or BCeID user when username update causes conflicts
 title: ''
-labels: keycloak-user, sso
+labels: sso-delete-user, sso
 assignees: jlangy, junminahn, arcshiftsolutions, zsamji, nvunnamm, ConradBoydElliottGustafson
 
 ---
