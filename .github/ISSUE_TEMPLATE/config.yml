@@ -9,6 +9,9 @@ contact_links:
   - name: Request access to RocketChat
     url: https://developer.gov.bc.ca/Steps-to-join-Rocket.Chat
     about: Did you know that most employees and contractors don't need to an invite to join Rocketchat? You can log straight in! More info at the link!
+  - name: Request for an Pathfinder SSO Client in a standard realm
+    url: https://bcgov.github.io/sso-requests/
+    about: To create a set of Pathfinder SSO clients (in KeyCloak DEV, TEST, PROD).
   - name: Human help needed
     url: https://developer.gov.bc.ca/Getting-human-support-for-issues-not-covered-by-devops-requests
     about: The community on RocketChat is always eager to help with your technical questions!
