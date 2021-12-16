@@ -9,7 +9,7 @@ assignees: jlangy, junminahn, arcshiftsolutions, zsamji,ConradBoydElliottGustafs
 ## Step 0
 **Are you the Keycloak Realm Admin?**
 
-Not sure --> log in to the [Keycloak Custom Realm Registry](https://realm-registry.apps.silver.devops.gov.bc.ca/) and if you see your realm, go to STEP 1. If you don't see it, ask the product owner to submit this request or go to STEP 4
+Not sure --> log in to the [Keycloak Custom Realm Registry](https://realm-registry.apps.silver.devops.gov.bc.ca/) and if you see your realm, go to STEP 1. If you don't see it, ask the product owner to submit this request or go to STEP 2
 
 Yes--> go to STEP 1
 
