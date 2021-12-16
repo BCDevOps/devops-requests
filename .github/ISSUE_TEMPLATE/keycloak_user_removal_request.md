@@ -6,6 +6,7 @@ labels: sso-delete-user, sso
 assignees: jlangy, junminahn, arcshiftsolutions, zsamji,ConradBoydElliottGustafson
 
 ---
+
 ## Step 0
 **Are you the Keycloak Realm Admin?**
 
@@ -19,7 +20,7 @@ No --> you will need to ask one of the admin user in your realm to make this req
 ## STEP 1
 Log in to our [Keycloak Custom Realm Registry](https://realm-registry.apps.silver.devops.gov.bc.ca/) and select the DUPLICATE USER tab
 - Type the IDIR of the user who is having issue with the account. See the message per environment for the specified user
-- If you see the button to delete --> this will remove the duplicate account. 
+- If you see the button to delete --> this will remove the duplicate account. Note you will only be able to delete the user if the user is not associated with other products realms
 - If you still have issues --> go to STEP 2
 - Otherwise --> follow the instructions on the screen (this type of request) and go to STEP 2
 
