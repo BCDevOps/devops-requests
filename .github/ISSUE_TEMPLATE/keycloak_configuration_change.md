@@ -3,7 +3,7 @@ name: Pathfinder SSO Generic Request
 about: To make a configuration change to an existing Pathfinder SSO configuration or to ask for help
 title: ''
 labels: sso-client-q&a, pending, sso, standard realm, configuration
-assignees: jlangy, junminahn, arcshiftsolutions, zsamji, ConradBoydElliottGustafson
+assignees: jlangy, junminahn, arcshiftsolutions, zsamji
 
 ---
 ## Step 1
