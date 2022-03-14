@@ -21,3 +21,5 @@ Fill out the following fields
 * Destination PV: the destination path
 
 > Note that the Source and destination can be the same PVC or separate. You can specify sub-folders instead of the whole volume.
+
+> Note that we need the PV not the PVC name. ie: `pvc-<uuid>`
