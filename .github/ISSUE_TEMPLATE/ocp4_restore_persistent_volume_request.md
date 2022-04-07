@@ -22,4 +22,6 @@ Fill out the following fields
 
 > Note that the Source and destination can be the same PVC or separate. You can specify sub-folders instead of the whole volume.
 
+> Note: both PVC source and destination must be a netapp-file-backup PVC on the same cluster.
+
 > Note that we need the PV not the PVC name. ie: `pvc-<uuid>`
