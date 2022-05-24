@@ -3,7 +3,7 @@ name: Request for BCGOV Repo Admin Access
 about: To grant admin access to a BCGOV GitHub repository which has privilege errors.
 title: ''
 labels: repo-admin-access
-assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
+assignees: caggles, ShellyXueHan, mitovskaol
 
 ---
 

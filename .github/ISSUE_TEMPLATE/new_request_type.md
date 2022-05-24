@@ -3,7 +3,7 @@ name: New Request Type
 about: Request a missing request type to be added to the devops-requests list of issue templates.
 title: ''
 labels: new-request-type
-assignees: caggles, ShellyXueHan, patricksimonian
+assignees: caggles, ShellyXueHan
 
 ---
 
