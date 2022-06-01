@@ -5,7 +5,7 @@ title: ''
 labels: 
   - github-membership
   - openshift-access
-assignees: caggles, ShellyXueHan, mitovskaol, patricksimonian
+assignees: caggles, ShellyXueHan, mitovskaol
 ---
 
 ## Removing Access
