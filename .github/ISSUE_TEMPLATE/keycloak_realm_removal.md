@@ -2,8 +2,8 @@
 name: Request for delete a Pathfinder SSO Realm
 about: To delete a set of Pathfinder SSO Realms.
 title: ''
-labels: sso-delete-realm, pending, sso
-assignees: thegentlemanphysicist, junminahn, arcshiftsolutions, zsamji
+labels: pending, sso, sso-delete-realm
+assignees: arcshiftsolutions, junminahn, thegentlemanphysicist, zsamji
 
 ---
 

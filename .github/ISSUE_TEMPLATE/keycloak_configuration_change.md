@@ -1,11 +1,13 @@
 ---
 name: Pathfinder SSO Generic Request
-about: To make a configuration change to an existing Pathfinder SSO configuration or to ask for help
+about: To make a configuration change to an existing Pathfinder SSO configuration
+  or to ask for help
 title: ''
-labels: sso-client-q&a, pending, sso, standard realm, configuration
-assignees: thegentlemanphysicist, junminahn, arcshiftsolutions, zsamji
+labels: pending, sso, sso-client-q&a
+assignees: arcshiftsolutions, junminahn, thegentlemanphysicist, zsamji
 
 ---
+
 ## Step 1
 Confirm that you are submitting the right issue type. 
 * If you are wanting to onboard to Pathfinder SSO, please read the [Onboarding Documentation](https://github.com/bcgov/ocp-sso/wiki/SSO-Onboarding).
@@ -24,6 +26,4 @@ Provide the following information:
 * Project Name: 
 
 If this is a request related to a dedicated realm (created before summer 2021)
-* Keycloak realm ID: 
-
-
+* Keycloak realm ID:

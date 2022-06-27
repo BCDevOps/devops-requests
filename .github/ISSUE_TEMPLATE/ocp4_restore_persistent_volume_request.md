@@ -2,9 +2,9 @@
 name: Request to restore a backup Persistent Volume (PV) from OpenShift
 about: To have a netapp-file-backup type of Persistent Volume (PV) restored
 title: ''
-labels: 
-  - restore-backup-volume
-assignees: StevenBarre, wmhutchison, tbaker1313, tmorik
+labels: ''
+assignees: StevenBarre, tbaker1313, tmorik, wmhutchison
+
 ---
 
 ## Restore a backup Persistent Volume (PV)

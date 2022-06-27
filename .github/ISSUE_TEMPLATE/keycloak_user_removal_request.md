@@ -2,8 +2,8 @@
 name: Request to remove a duplicate user from Keycloak
 about: To remove an IDIR or BCeID user when username update causes conflicts
 title: ''
-labels: sso-delete-user, sso
-assignees: thegentlemanphysicist, junminahn, arcshiftsolutions, zsamji
+labels: sso, sso-delete-user
+assignees: arcshiftsolutions, junminahn, thegentlemanphysicist, zsamji
 
 ---
 
@@ -37,4 +37,4 @@ C. Provide the following information:
 
 * Username to be removed: 
 * Realm ID where user is having problem login: 
-* Environment in which you are facing issue: 
+* Environment in which you are facing issue:

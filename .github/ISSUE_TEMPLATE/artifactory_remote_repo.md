@@ -4,6 +4,7 @@ about: To create a remote Maven repository in your Artifactory Project.
 title: ''
 labels: artifactory-remote-repo
 assignees: caggles, ShellyXueHan
+
 ---
 
 ## Step 0
@@ -32,4 +33,3 @@ Please ensure that your provide all three pieces of information for each of the 
 
 ## Step 4
 If any of the remote repos in question are private and require authentication, please provide your RocketChat username here so a member of the Platform Team can contact you to discuss a way to share the authenticaton information.
-
