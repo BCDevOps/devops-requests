@@ -57,4 +57,8 @@ Fill out the following fields. For security purpose, please provide the followin
 * GitHub Team to Join (if exists): 
 
 
+## Step 4
+Once you have a private repo and could like to invite more team members to work on it, please create a `Request for BCGOV-C Private GitHub Organization Membership`!
+
+
 **Note** that the platform services team will be removing GitHub Org access for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.
