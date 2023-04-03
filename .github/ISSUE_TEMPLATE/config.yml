@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Request user membership to Openshift or BC Gov/BCDevOps orgs
+  - name: Request user membership to Openshift or BC Gov/BCDevOps orgs, and access to create a public GitHub repo
     url: https://developer.gov.bc.ca/User-access-into-Github-or-Openshift
     about: These tasks are now self-serve :) 
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
@@ -12,9 +12,6 @@ contact_links:
   - name: Request for an Pathfinder SSO Client in a standard realm
     url: https://bcgov.github.io/sso-requests/
     about: To create a set of Pathfinder SSO clients (in KeyCloak DEV, TEST, PROD).
-  - name: Request to add a member to a private repo in the bcgov-c organization
-    url: https://cloud.gov.bc.ca/private-cloud/support-and-community/devops-requests-in-the-bc-gov-private-cloud-paas/#grant-access-to-an-existing-private-repository-in-the-bcgovc-github-organization
-    about: How to add a user to a repo in the bcgov-c organization
   - name: Human help needed
     url: https://developer.gov.bc.ca/Getting-human-support-for-issues-not-covered-by-devops-requests
     about: The community on RocketChat is always eager to help with your technical questions!
