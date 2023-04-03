@@ -3,7 +3,7 @@ name: Request for BCGOV Repo Admin Access
 about: To grant admin access to a BCGOV GitHub repository which has privilege errors.
 title: ''
 labels: repo-admin-access
-assignees: caggles, mitovskaol, ShellyXueHan
+assignees: caggles, mitovskaol, ShellyXueHan, MonicaG, blueQcloud
 
 ---
 
@@ -16,7 +16,7 @@ If your repo has an admin, please ask them to provide you with the access you ne
 
 
 **Are you the Technical Lead?**
-Only a team's technical lead my request admin access to a repo.
+Only a team's technical lead or product owner may request admin access to a repo. This information will be verified with Project Registry.
 
 **Are you a member of the BCGOV org?**
 If not, you'll need to be added as member first. Please open a ticket for that, and then come back here once that's finished!
