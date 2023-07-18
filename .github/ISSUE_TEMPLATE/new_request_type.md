@@ -4,7 +4,7 @@ about: Request a missing request type to be added to the devops-requests list of
   templates.
 title: ''
 labels: new-request-type
-assignees: caggles, ShellyXueHan, MonicaG, blueQcloud
+assignees: caggles, ShellyXueHan, MonicaG, blueQcloud, oomIRL
 
 ---
 
