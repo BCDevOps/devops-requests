@@ -21,7 +21,7 @@ If your team has the private repo already, please list it in the next step. If n
 
 
 ### Step 2
-Fill out the following fields. For security purpose, please provide the following contact information to the email address - platformservicesteam@gov.bc.ca
+Fill out the following fields. For security purpose, please provide the following contact information to the email address - Developer.Experience@gov.bc.ca
 
 * Project Name: 
 * GitHub Org: bcgov or private
@@ -32,4 +32,4 @@ Fill out the following fields. For security purpose, please provide the followin
 * Project Role: 
 * GitHub Team to Join (if exists): 
 
-**Note** that the Platform Services Team will be removing GitHub Org access **automatically** for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.
+**Note** that the Developer Experience Team will be removing GitHub Org access **automatically** for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.

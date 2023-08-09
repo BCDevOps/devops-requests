@@ -3,7 +3,7 @@ name: Request for integrating a GitHub App
 about: To request and evaluate new GitHub App integration with bcgov organization.
 title: ''
 labels: github-app, pending
-assignees: caggles, ShellyXueHan, MonicaG, blueQcloud, oomIRL
+assignees: MonicaG, oomIRL
 
 ---
 
@@ -35,7 +35,7 @@ Please provide details about the requested GitHub App. Take a look here for a [g
 1. Brief introduction of the app:
 
 2. General Criteria:
-  - How Easy / Fast / Repeatable is it to use and maintain for both Development Teams and Platform Services Teams:
+  - How Easy / Fast / Repeatable is it to use and maintain for both Development Teams and Developer Experience Teams:
   - Customizable:
   - User Access Model:
   - License:

@@ -3,7 +3,7 @@ name: Request for private BCGOV GitHub Repository
 about: To create or remove a private BCGOV GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: caggles, ShellyXueHan, MonicaG, blueQcloud, oomIRL
+assignees: MonicaG, oomIRL
 
 ---
 
@@ -42,7 +42,7 @@ Are you requesting to:
 
 
 ## Step 3
-Fill out the following fields. For security purpose, please provide the following contact information to the email address - platformservicesteam@gov.bc.ca
+Fill out the following fields. For security purpose, please provide the following contact information to the email address - Developer.Experience@gov.bc.ca
 
 * Project Name: 
 * GitHub Org: bcgov or private
@@ -61,4 +61,4 @@ Fill out the following fields. For security purpose, please provide the followin
 Once you have a private repo and would like to invite more team members to work on it, please create a `Request for BCGOV-C Private GitHub Organization Membership`!
 
 
-**Note** that the platform services team will be removing GitHub Org access for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.
+**Note** that the Developer Experience team will be removing GitHub Org access for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.

@@ -3,7 +3,7 @@ name: Request for import GitHub repository on SonarCloud
 about: To import GitHub repository on SonarCloud.
 title: ''
 labels: sonarcloud-repo
-assignees: caggles, ShellyXueHan, MonicaG, blueQcloud, oomIRL
+assignees: MonicaG, oomIRL
 
 ---
 
@@ -25,8 +25,9 @@ Fill out the following fields
 
 * Project Name: 
 * GitHub repositories to add to SonarCloud:
-- 
-- 
+* New Code Definition: (Refer to [SonarCloud's documentation on the possible values for this field](https://docs.sonarcloud.io/improving/new-code-definition/))
+
+
 
 ## Step 3
 To invite other team members onto sonarcloud, make sure the users have completed Step 1. The SonarCloud repository admin user could further assign roles.
