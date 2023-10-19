@@ -3,7 +3,7 @@ name: Request for BCGOV-C Private GitHub Organization Membership
 about: To create an access for a team member to BCGOV-C Private GitHub Organization and repositories.
 title: ''
 labels: github-membership
-assignees: MonicaG, oomIRL
+assignees: MonicaG, oomIRL, SHIHO-I
 
 ---
 

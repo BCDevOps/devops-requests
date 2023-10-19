@@ -3,7 +3,7 @@ name: Request for import GitHub repository on SonarCloud
 about: To import GitHub repository on SonarCloud.
 title: ''
 labels: sonarcloud-repo
-assignees: MonicaG, oomIRL
+assignees: MonicaG, oomIRL, SHIHO-I
 
 ---
 

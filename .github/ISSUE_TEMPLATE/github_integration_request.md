@@ -3,7 +3,7 @@ name: Request for integrating a GitHub App
 about: To request and evaluate new GitHub App integration with bcgov organization.
 title: ''
 labels: github-app, pending
-assignees: MonicaG, oomIRL
+assignees: MonicaG, oomIRL, SHIHO-I
 
 ---
 

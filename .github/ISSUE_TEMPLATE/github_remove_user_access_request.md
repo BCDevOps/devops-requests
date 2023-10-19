@@ -3,7 +3,7 @@ name: Request to remove Openshift Access and or BCGOV GitHub Organization Member
 about: To remove access for a team member to BCGOV GitHub repositories and Openshift.
 title: ''
 labels: github-membership, openshift-access
-assignees: MonicaG, oomIRL
+assignees: MonicaG, oomIRL, SHIHO-I
 
 ---
 
