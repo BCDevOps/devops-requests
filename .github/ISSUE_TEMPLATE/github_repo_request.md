@@ -1,5 +1,5 @@
 ---
-name: Request for private GitHub repository in BC Gov-managed organization
+name: Request for private BCGOV GitHub Repository
 about: To create or remove a private GitHub repository.
 title: ''
 labels: github-repo, pending
